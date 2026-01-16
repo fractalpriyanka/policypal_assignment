@@ -1,0 +1,730 @@
+[
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "I",
+    "chunk_id": "I_chunk_1",
+    "title": "Welcome",
+    "text": "Welcome. Welcome to the company. We hope that you enjoy your position with us and that it will prove beneficial to both you and the Company. We offer our best wishes for your future success. We hope you will be just as proud to be a member of our organization as we are to have you.",
+    "token_count": 72
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "II",
+    "chunk_id": "II_chunk_1",
+    "title": "Company Policy",
+    "text": "Company Policy. To provide the consumer with consistently high quality products and friendly, competent service. To provide all our employees with equal opportunities for advancement. To provide you with good working conditions, to pay you a fair wage and to promote your welfare. To produce a profit for the Company's future growth and the stockholders' investment. Effective: January 01, 2014",
+    "token_count": 78
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III",
+    "chunk_id": "III_chunk_1",
+    "title": "Purpose of This Handbook",
+    "text": "Purpose of This Handbook. This handbook is for the information and use of all employees of the Company. It contains the policies of the Company relating to hours, wages, employee benefits and conditions of employment, and provides a reference manual that should be followed by the Company and its employees. Company policies are operating practices and procedures of the Company. These policies have been established for the benefit of the employees and management in order to provide the best working conditions possible. THE LANGUAGE OF THIS HANDBOOK AND THE RULES AND POLICIES STATED WITHIN ARE NOT INTENDED TO CREATE, NOR DO THEY CONSTITUTE, A CONTRACT IMPLIED OR EXPRESS BETWEEN THE COMPANY AND ANY OF ITS EMPLOYEES. THE POLICIES AND PROCEDURES ARE NOT UNCHANGEABLE. IF CIRCUMSTANCES ARISE THAT WARRANT CONSIDERATION OF A CHANGE IN POLICIES OR PROCEDURES, EMPLOYEES SHOULD BRING SUCH CIRCUMSTANCES TO THE ATTENTION OF MANAGEMENT. THIS HANDBOOK AND THE RULES AND POLICIES CONTAINED IN IT ARE SUBJECT TO CHANGE AT ANY TIME WITHIN THE SOLE DISCRETION OF MANAGEMENT. EMPLOYMENT AT THE COMPANY IS ON AN \"AT WILL\" BASIS AND MAY BE TERMINATED BY THE COMPANY OR THE EMPLOYEE AT ANY TIME FOR ANY REASON. ANY CHANGE TO THIS AT WILL EMPLOYMENT STATUS, INCLUDING EMPLOYMENT FOR A PARTICULAR REASON, MAY BE GRANTED ONLY WITH THE SPECIFIC PRIOR WRITTEN APPROVAL OF THE PRESIDENT OF THE COMPANY. It is the duty of the management to administer fairly without discrimination these policies, and all employees are expected to abide by and follow these policies. In the event you have any questions concerning the application of any procedure or policy, you should first ask your supervisor, if possible. Any employee who feels that a policy has not been administered in accordance with this handbook should refer the problem directly to his/her supervisor or to another member of management. No employee shall be penalized or discriminated against in any way for having requested consideration of the application of these policies or questioning the application of a policy in any situation. Management intends that justice and fair dealing be the practice as well as the policy of the Company. Every employee should feel free to discuss his or her problems and any policies contained in this handbook with members of management. We welcome suggestions from you that will aid in maintaining constructive and harmonious relationships throughout the Company. Please read this handbook carefully and review it with whomever you like-your family, your fellow employees, or your supervisor. If you have any questions, please bring them to the Employee Relations Office/Human Resources Department. When you have completed your review, please sign the form at the end of the handbook stating that you have reviewed the handbook, understand its contents, and agree to abide by it. Please return the form to the Employee Relations Office/Human Resources Department.",
+    "token_count": 609
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.1",
+    "chunk_id": "IV.A.1_chunk_1",
+    "title": "Labor Policy",
+    "text": "Labor Policy. The Labor Policy of the Company is an open shop-open door policy. Each employee has the right to deal with members of management with reference to all working conditions. No employee is required to obtain any other person or organization to represent him or her in the presentation of problems or questions of regarding the application of the Company's working policies. No employee need pay to any person or to any organization any contribution or assessment for the right to work here. Management does not and will not discriminate against any employee because of membership or non-membership in any organization, whether it is religious, fraternal, professional or social. Each employee has the right to bring any problems to the attention of his or her supervisor or to any member of management. It is the duty of management to aid and assist whenever possible, in the solution of any problems or in the working out of suggestions. It is by solving our problems and capitalizing on suggestions that progress is made. The management has attempted to provide the best conditions of employment, the most satisfactory tools and the most opportunity for advancement for each employee. It is the policy of the Company to compensate each employee in accordance with his or her ability and skill, and to provide him or her with every opportunity for training and development.",
+    "token_count": 297
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.2",
+    "chunk_id": "IV.A.2_chunk_1",
+    "title": "Hiring Policy",
+    "text": "Hiring Policy. The Company hires individuals on the basis of their qualifications and ability to complete the responsibilities and tasks of the job to be filled. Unless otherwise provided in writing, employment with the Company is considered to be at will, so that either party may terminate the relationship at any time and for any lawful reason. The Hiring Policy of this Company includes the following:",
+    "token_count": 85
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.2.a",
+    "chunk_id": "IV.A.2.a_chunk_1",
+    "title": "Equal Employment Policy",
+    "text": "Equal Employment Policy. The Company is an equal opportunity employer. It is our policy to grant equal employment opportunities to qualified persons without regard to race, religion, color, national origin, sex, sexual orientation, pregnancy, age, veterans' or military status or non-job physical or mental handicap or disability or other classification protected by applicable federal, state or local laws, except where there is a bona fide occupational disability. The Company will provide equal opportunities in employment, promotion, wages, benefits and all other privileges, terms and conditions of employment. All recruiting, hiring, training, and promoting for all job classifications is done without regard to race, color, religion, sex, age or national origin except when a bona fide occupational qualification exist. All decisions on employment are made to further the principle of equal employment. All promotion decisions will continue to be made in accordance, with Equal Employment Opportunity principles, and only valid job requirements will be used.",
+    "token_count": 200
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.2.b",
+    "chunk_id": "IV.A.2.b_chunk_1",
+    "title": "Conflict of Interest",
+    "text": "Conflict of Interest. All persons employed by the Company owe a duty of fidelity to the Company. Employees must never place themselves in a position where their self-interest may conflict with this duty. Any employee who breaches this policy is subject to disciplinary action, up to and including discharge.",
+    "token_count": 63
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.2.c",
+    "chunk_id": "IV.A.2.c_chunk_1",
+    "title": "Anti-Nepotism Policies",
+    "text": "Anti-Nepotism Policies. Under the Company's Anti-nepotism policy, no relative may supervise a relative, work in the same department as a relative, or exert influence over a relative's hiring, salary, or promotion. \"Relative\" is defined as a member of an individual's family, including wife, husband, son, daughter, mother, father, brother, sister, brother-in-law, sister-in-law, son-in-law, daughter-in-law, mother- in-law, father-in-law, aunt, uncle, niece, nephew, grandmother, grandfather, stepparent, and stepchild.",
+    "token_count": 85
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.2.d",
+    "chunk_id": "IV.A.2.d_chunk_1",
+    "title": "Moonlighting",
+    "text": "Moonlighting. Employees may engage in other employment provided it does not interfere with duties as an Employee of the Company or impair the ability of the Employee to perform Company duties. Employee must advise supervisor in writing that they have or want a second job. All outside Employment shall be subject to departmental rules and regulations, and the prior approval of Laurie Green or the owner. If you are not a citizen and do not have a green card and have a non immigrant work visa that specifies the employer that you may legally work for, then you may work ONLY for those employers specified in your visa. To do otherwise, would jeopardize your legal status in the United States, and subsequently, your ability to work for the company.",
+    "token_count": 167
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.2.f",
+    "chunk_id": "IV.A.2.f_chunk_1",
+    "title": "Standards of Conduct",
+    "text": "Standards of Conduct. It is anticipated that the Company employees will apply themselves fully to their work. Included in this assumption is that employees will report to work punctually as scheduled and perform their work assignments in a timely and professional manner, and follow all the Company policies, procedures, and practices. Conduct that interferes with operations will not be tolerated. The Standards of Conduct are designed to be used to correct behavior. For the most part, they follow the principle of progressive discipline, i.e., warnings followed by increasing discipline depending on the type and frequency of offenses. If the offense is considered serious enough by the supervisor, then the employee may be terminated immediately without warning (i.e. theft or fraud (being punched in while performing non Corporate related functions)). Discipline under the Standards of Conduct will not be based on any employee's race, color, religion, gender, age, national origin, disability, or political affiliation. The standards were developed to protect the well-being and rights of all employees. The standards are intended to be illustrative but not all-inclusive. Accordingly, an offense which, in the judgment of management, although not listed in the policy, seriously undermines the effectiveness of the college's activities or the Employee's performance, is to be treated consistent with the provisions of the Standards of Conduct Policy.",
+    "token_count": 282
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.2.g",
+    "chunk_id": "IV.A.2.g_chunk_1",
+    "title": "Employee Background Check:",
+    "text": "Employee Background Check:. The Company will perform a background investigation to evaluate a job candidate's qualifications, character, fitness, and to identify potential hiring risks for safety and security reasons. A background investigation should include criminal history, social security number trace, past employment verification, credit score, and criminal history.",
+    "token_count": 62
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.2.h",
+    "chunk_id": "IV.A.2.h_chunk_1",
+    "title": "Drug Testing Policy",
+    "text": "Drug Testing Policy. The Company has a drug and alcohol testing policy, current and prospective employees who wok or would work in high-risk or safety-sensitive positions will be asked to submit to drug and alcohol testing. No prospective employee will be asked to submit to testing unless an offer of employment has been made. An offer, however, is conditioned on the prospective employee testing negative for drugs and alcohol.",
+    "token_count": 89
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.2.h",
+    "chunk_id": "IV.A.2.h_chunk_1",
+    "title": "Health Examinations",
+    "text": "Health Examinations. The Company employing units may require periodic physical examinations and/or tests to certify an Employee's continued ability to perform job duties or to serve as a measure of disease control. The costs of these examinations and/or tests are the responsibility of the Company. If there is reasonable cause to believe that an Employee has an illness that can be detrimental to other staff, the Company may require the Employee to have a health examination to indicate whether the Employee has such an illness.",
+    "token_count": 110
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.2.h",
+    "chunk_id": "IV.A.2.h_chunk_1",
+    "title": "Smoking Policy",
+    "text": "Smoking Policy. Our goal is to provide a healthy and pleasant work environment for all employees. Company prohibits any form of tobacco use on Company premises. Smoking is only allowed in private vehicles 25 feet away from building. If your job is outside, and you continue to work efficiently while smoking, you do not need to punch out while smoking. However, if you are working inside or can not continue to work while smoking, then you must punch out while smoking or you will be terminated immediately. If you are in a position of customer service that requires a constant presence, like answering the phone then you can not smoke at any time on the premises.",
+    "token_count": 150
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.2.i",
+    "chunk_id": "IV.A.2.i_chunk_1",
+    "title": "Immigration Law Compliance",
+    "text": "Immigration Law Compliance. The Company does not unlawfully discriminate on the basis of citizenship or national origin, but at the same time, is committed to employing only the U.S. citizens and aliens who are authorized to work in the U.S. In compliance with the Immigration Reform and Control Act of 1986, each new employee, as a condition of employment, must complete the Employment Eligibility Verification Form I-9 and present documentation establishing identity and employment eligibility.",
+    "token_count": 97
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "IV.A.2.i",
+    "chunk_id": "IV.A.2.i_chunk_1",
+    "title": "Americans with Disabilities Act Compliance",
+    "text": "Americans with Disabilities Act Compliance. Company adheres to the Americans with Disabilities Act (ADA) and makes every effort to ensure that qualified individuals with a disability are not discriminated against in any terms, conditions, or privileges of employment. The ADA requires employers to provide a reasonable accommodation to qualified individuals with known disabilities in all aspects of employment, unless the accommodation would cause an undue hardship to the employer. An individual with a disability is a person who: 1 Has a physical or mental impairment substantially limiting one or more major life activities; or 2 Has a record of such impairment; or 3 Is regarded as having such an impairment. A qualified individual is a person with a disability who meets the skill, education, experience, training, and other job-related requirements of position, and who, with or without a reasonable accommodation, can perform the essential functions of the position. We are committed to providing a reasonable accommodation to the known physical or mental limitations of such individuals so they can perform the essential functions of a job, unless the accommodation would create an undue hardship. If you need an accommodation under the ADA, you should immediately notify Company.",
+    "token_count": 256
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III",
+    "chunk_id": "III_chunk_1",
+    "title": "Internet Policy",
+    "text": "Internet Policy. Purpose. The purpose of this policy is to ensure the proper use of the Company's internet system and make its employees and users aware of what the Company deems as acceptable and unacceptable use of its internet system. This policy also provides for sanctions in the event of a breach or violation of the policy terms hereunder. Applicability. This Policy applies to all users of company technology, including employees, contractors, vendors, partners, associates, and any other parties accessing or using the Company's System through on-site or remote terminals. Disclaimer of liability for use of Internet. The Company is not responsible for material viewed or downloaded by users from the Internet. The Internet is a worldwide network of computers that contains millions of pages of information. Users are cautioned that many of these pages include offensive, sexually explicit, and inappropriate material. In general, it is difficult to avoid at least some contact with this material while using the Internet. Even innocuous search requests may lead to sites with highly offensive content. In addition, having an e-mail address on the Internet may lead to receipt of unsolicited e-mail containing offensive content. Users accessing the Internet do so at their own risk. Duty not to waste computer resources. Employees must not deliberately perform acts that waste computer resources or unfairly monopolize resources to the exclusion of others. These acts include, but are not limited to, sending mass mailings or chain letters, spending excessive amounts of time on the Internet, playing games, engaging in online chat groups, printing multiple copies of documents, or otherwise creating unnecessary network traffic. Because audio, video and picture files require significant storage space, files of this or any other sort may not be downloaded unless they are business-related. No expectation of privacy. The computers and computer accounts given to employees are the exclusive property of the Company. No individual should have any expectation of privacy in any communication over this System. The System is to be used solely for company-related business, and is not to be used for personal business or pleasure. Monitoring computer usage. The Company reserves the right to monitor, intercept and/or review all data transmitted, received or downloaded over the System. Any individual who is given access to the System is hereby given notice that the Company will exercise this right periodically, without prior notice and without the prior consent of the employee. The Company's interests in monitoring and intercepting data include, but are not limited to: protection of company proprietary and classified data; managing the use of the Company's computer System; preventing the transmission or receipt of inappropriate materials by employees; and/or assisting the employee in the management of electronic data during periods of absence. No individual should interpret the use of password protection as creating a right or expectation of privacy. In order to protect everyone involved, no one can have a right or expectation of privacy with regards to the receipt, transmission or storage of data on the Company's Internet System. Blocking of inappropriate content. Company may use software to identify inappropriate or sexually explicit Internet sites. Such sites may be blocked from access by Company networks. In the event you nonetheless encounter inappropriate or sexually explicit material while browsing on the Internet, immediately disconnect from the site, regardless of whether the site was subject to company blocking software. Prohibited activities. Material that is fraudulent, harassing, embarrassing, sexually explicit, profane, obscene,intimidating, defamatory, or otherwise unlawful, inappropriate, offensive (including offensive material concerning sex, race, color, national origin, religion, age, disability, or other characteristic protected by law), or in violation of Company's equal employment opportunity policy and its policies against sexual or other harassment may not be downloaded from the Internet or displayed or stored in Company's computers. Employees encountering, witnessing or receiving this kind of material should immediately report the incident to their immediate supervisor and the person that signs your paycheck by phone. Company's equal employment opportunity policy and its policies against sexual or other harassment apply fully to the use of the Internet and any violation of those policies is grounds for discipline up to and including discharge. Games and entertainment software. Employees may not use the Company's Internet connection to download games or other entertainment software, including wallpaper and screen savers, or to play games over the Internet. Illegal copying. Employees may not illegally copy material protected under copyright law or make that material available to others for copying. You are responsible for complying with copyright law and applicable licenses that may apply to software, files, graphics, documents, messages, and other material you wish to download or copy. You may not agree to a license or download any material for which a registration fee is charged without first obtaining the express written permission of your immediate supervisor and Human",
+    "token_count": 1040
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III",
+    "chunk_id": "III_chunk_2",
+    "title": "Internet Policy",
+    "text": "to download games or other entertainment software, including wallpaper and screen savers, or to play games over the Internet. Illegal copying. Employees may not illegally copy material protected under copyright law or make that material available to others for copying. You are responsible for complying with copyright law and applicable licenses that may apply to software, files, graphics, documents, messages, and other material you wish to download or copy. You may not agree to a license or download any material for which a registration fee is charged without first obtaining the express written permission of your immediate supervisor and Human Resources. Accessing the Internet. To ensure security and to avoid the spread of viruses, employees accessing the Internet through a computer attached to Company's network must do so through an approved Internet firewall. Accessing the Internet directly by modem is strictly prohibited unless the computer you are using is not connected to the Company's network. Virus detection. Files obtained from sources outside the Company, including disks brought from home; files downloaded from the Internet, newsgroups, bulletin boards, or other online services; files attached to e-mail; and files provided by customers or vendors may contain dangerous computer viruses that may damage the Company's computer network. Employees should never download files from the Internet, accept e-mail attachments from outsiders, or use disks from non-company sources, without first scanning the material with company-approved virus checking software. If you suspect that a virus has been introduced into the Company's network, notify the Help Desk immediately. Sending unsolicited e-mail (spamming). Without the express permission of their supervisors, employees may not send unsolicited e-mail to persons with whom they do not have a prior relationship. Amendments and revisions. This policy may be amended or revised from time to time as the need arises. Users will be provided with copies of all amendments and revisions. Violations of this policy. Any employee who abuses the privilege of access to the Company's Voicemail, E-mail or the Internet System will be subject to corrective action, up to and including termination. If necessary, the Company also will advise law enforcement officials of any illegal conduct. Use of Internet. Use of the Internet via Company's computer system constitutes consent by the user to all of the terms and conditions of this policy. Employee use of company computers, printers, peripherals, and electronic equipment is for job-related or approved activities only. Inappropriate use of company computers, which may be defined from time to time at the discretion of Company, may subject you to discipline, up to and including termination. Inappropriate use includes, but is not limited, to the following:",
+    "token_count": 565
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E",
+    "chunk_id": "III.E_chunk_1",
+    "title": "Using Company computers, printers, or email for personal and/or non-Company related use, unless authorized by your immediate supervisor.",
+    "text": "Using Company computers, printers, or email for personal and/or non-Company related use, unless authorized by your immediate supervisor.. Points of Contact. Questions concerning the use of the Internet System should be directed to Laurie Green, the payroll supervisor, by phone at 231-436-5005 or email at laurie@mackinaw-city.com. Questions concerning the improper use of the System should be directed to the employee's immediate supervisor and Laurie Green by phone at 231-436-5005 or email at laurie@mackinaw-city.com.",
+    "token_count": 94
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4",
+    "chunk_id": "III.E.4_chunk_1",
+    "title": "Email Policy",
+    "text": "Email Policy. Purpose. The purpose of this policy is to ensure the proper use of the Company's email system and make the users (defined below) aware of what the Company deems as acceptable and unacceptable use of its email system. This policy also provides for sanctions in cases of breach of violation of the policy terms. Applicability. This policy applies to the use of the Company's email services by the users at the Company\u2019s offices, as well as remote locations, including, but not limited to, the users homes, airports, hotels, and client offices. All company employees, full-time or part-time, independent contractors, interns, consultants, clients, and other third parties who have been granted the right to use the Company's email services are defined as the users for the purpose of this policy and are required to sign this agreement confirming their understanding and acceptance of this policy. Email Accounts are the Property of the Company. All email accounts maintained on the Company's email systems are property of the Company. Company has the right to read and keep a record of any emails that users transmit via the Company's email system. E-mail exists for Business Purposes only. The Company allows its e-mail access primarily for business purposes. The users may use the Company's email system for personal use only in accordance with this policy. Authorized Personal Email Use. Although the Company's email system is meant only for business use, the Company allows the reasonable use of email for personal use subject to the following guidelines:",
+    "token_count": 328
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.i",
+    "chunk_id": "III.E.4.i_chunk_1",
+    "title": "Personal use of email should not interfere with work. Employees can send them only during non- work hours.",
+    "text": "Personal use of email should not interfere with work. Employees can send them only during non- work hours.. ii. Personal emails must also adhere to the guidelines in this policy. iii. Personal emails are kept in a separate folder, named Private. The emails in this folder must be deleted weekly so as not to clog up the system. iv. The forwarding of chain letters, junk mail, jokes and executables is strictly forbidden.",
+    "token_count": 93
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.v",
+    "chunk_id": "III.E.4.v_chunk_1",
+    "title": "On average, users are not allowed to send more than the number of personal emails a day as fixed by the Company.",
+    "text": "On average, users are not allowed to send more than the number of personal emails a day as fixed by the Company.. Unacceptable use of Email. The following acts shall constitute unacceptable use of the email system of the Company:",
+    "token_count": 52
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.i",
+    "chunk_id": "III.E.4.i_chunk_1",
+    "title": "Use of the Company's communications systems to for a personal business or send chain letters;",
+    "text": "Use of the Company's communications systems to for a personal business or send chain letters;. ii. Forwarding of the Company's confidential messages to external locations; iii. Distributing, disseminating or storing images, text or materials that might be considered indecent, pornographic, obscene or illegal; iv. Distributing, disseminating or storing images, text or materials that might be considered discriminatory, offensive or abusive, in that the context is a personal attack, sexist or racist, or might be considered as harassment;",
+    "token_count": 100
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.v",
+    "chunk_id": "III.E.4.v_chunk_1",
+    "title": "Accessing copyrighted information in a way that violates the copyright;",
+    "text": "Accessing copyrighted information in a way that violates the copyright;. vi. Breaking into the Company's or another organizations system or unauthorized use of a password/mailbox; vii. Broadcasting unsolicited personal views on social, political, religious or other non-business related matters; viii. Using e-mail to operate another business, conduct an external job search, or solicit money for personal gain; ix. Transmitting unsolicited commercial or advertising material;",
+    "token_count": 83
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.x",
+    "chunk_id": "III.E.4.x_chunk_1",
+    "title": "Undertaking deliberate activities that waste staff effort or networked resources; and",
+    "text": "Undertaking deliberate activities that waste staff effort or networked resources; and. xi. Introducing any form of computer virus or mal-ware into the corporate network; Legal Risks Involved. Email is a business communication tool and the users are obliged to use this tool in a responsible, effective, and lawful manner. Although by its nature email seems to be less formal than other written communication, similar laws apply. Therefore, it is important that users are aware of the following legal risks of e-mail. Both the user and the Company can be held liable for:",
+    "token_count": 119
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.i",
+    "chunk_id": "III.E.4.i_chunk_1",
+    "title": "sending emails with any libelous, defamatory, offensive, racist or obscene remarks;",
+    "text": "sending emails with any libelous, defamatory, offensive, racist or obscene remarks;. ii. forwarding emails with any libelous, defamatory, offensive, racist or obscene remarks; iii. unlawfully forwarding confidential information of others; iv. copyright infringement for unlawfully forwarding or copying messages without permission; and",
+    "token_count": 54
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.v",
+    "chunk_id": "III.E.4.v_chunk_1",
+    "title": "sending an attachment that contains a virus.",
+    "text": "sending an attachment that contains a virus.. The above list does not enumerate all the legal risks involved. However, by following the guidelines provided in this policy, the users can minimize the legal risks involved in the use of e-mail. If any user disregards the rules set out in this Email Policy, Company can take corrective action up to and including termination of employment. Best Practices. The Company considers email an important means of communication and recognizes the importance of appropriate email content and prompt replies in conveying a professional image and delivering good customer service. Therefore, the Company institutes the following guidelines for users to adhere to: Writing Emails.",
+    "token_count": 143
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.i",
+    "chunk_id": "III.E.4.i_chunk_1",
+    "title": "All email messages sent on company equipment should be professional and appropriate;",
+    "text": "All email messages sent on company equipment should be professional and appropriate;. ii. Write well-structured emails and use short, descriptive subjects; iii. The Company's email style is informal. This means that sentences can be short and to the point. However, the use of Internet abbreviations and characters such as smileys is not encouraged; iv. Signatures must include your name, job title and company name. A disclaimer will be added underneath your signature (see Disclaimer);",
+    "token_count": 96
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.v",
+    "chunk_id": "III.E.4.v_chunk_1",
+    "title": "Use the spell checker before you send out an email;",
+    "text": "Use the spell checker before you send out an email;. vi. Do not send unnecessary attachments. Compress larger attachments before sending them; vii. Do not write emails in capitals; viii. If you forward mails, state clearly what action you would like the recipient to take; ix. Only send emails of which the content could be displayed on a public notice board. If they cannot be displayed publicly in their current state, consider rephrasing the email, using other means of communication, or protecting information by using a password;",
+    "token_count": 113
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.x",
+    "chunk_id": "III.E.4.x_chunk_1",
+    "title": "Only mark emails as important if they really are important;",
+    "text": "Only mark emails as important if they really are important;. Replying to Emails.",
+    "token_count": 16
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.i",
+    "chunk_id": "III.E.4.i_chunk_1",
+    "title": "Emails that require a reply should be answered at the earliest possible time;",
+    "text": "Emails that require a reply should be answered at the earliest possible time;. ii. Prioritize emails from existing customers and business partners; Newsgroups. The users need to request permission from their supervisor before subscribing to a newsletter or newsgroup; Subscribe to a newsletter or newsgroup only if it directly relates to the nature of your job; Maintenance.",
+    "token_count": 74
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.i",
+    "chunk_id": "III.E.4.i_chunk_1",
+    "title": "Email passwords should not be given to other people and should be changed periodically;",
+    "text": "Email passwords should not be given to other people and should be changed periodically;. ii. Email accounts not used for a long period will be deactivated and possibly deleted; iii. Delete any email messages that you do not need to have a copy of, and set your email client to automatically empty your deleted items on closing; Business Record Retention Policy. E-mail messages are written business records and are subject to the Company's rules and policies relating to retaining and deleting business records. Confidential Information. Avoid sending confidential information by email. Unless authorized to do so, the users are prohibited from using email to transmit confidential information to outside parties. Users may not access, send, receive, solicit, print, copy, or reply to confidential or proprietary information about the Company, its employees, clients, and other business associates. Confidential information includes, but is not limited to:",
+    "token_count": 187
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.i",
+    "chunk_id": "III.E.4.i_chunk_1",
+    "title": "client lists;",
+    "text": "client lists;. ii. credit card numbers; iii. Social Security numbers; iv. employee performance reviews;",
+    "token_count": 18
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.4.v",
+    "chunk_id": "III.E.4.v_chunk_1",
+    "title": "salary details;",
+    "text": "salary details;. vi. trade secrets; vii. passwords; and viii. any other information that could embarrass the Company and its associates if the information were disclosed to the public Disclaimer. The following disclaimer shall be added to each outgoing email: This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to which they are addressed. If you have received this email in error please notify the system manager. Please note that any views or opinions presented in this email are solely those of the author and do not necessarily represent those of the Company. Finally, the recipient should check this email and any attachments for the presence of viruses. The Company accepts no liability for any damage caused by any virus transmitted by this email. System Monitoring. E-mail messages created and transmitted via the Company's email system are the property of the Company. The Company reserves the right to monitor all email transmitted via the Company's email system. Employees have no reasonable expectation of privacy when it comes to business and personal use of the Company's email system. Violations and Sanctions. If an employee is found to violate any of this email policy rules, the Company could take disciplinary action up to and including termination of employment. The actual penalty applied will depend on factors such as the seriousness of the breach, the employee's disciplinary record, and any other factors the Company deems necessary to consider. If an employee witnesses email policy abuse by, he/she is required to report the incident immediately to Laurie Green, by phone at 231-436-5005 or email at laurie@mackinaw-city.com. Amendment of Policy. The Company reserves the right to amend this policy at its discretion. In case of amendments, users will be informed appropriately. Questions. If you have any questions or comments about this email Policy, please contact Laurie Green by phone at 231-436-5005 or email at laurie@mackinaw-city.com. If you do not have any questions, the Company presumes that you understand and are aware of the rules and guidelines in this email policy and will adhere to them.",
+    "token_count": 456
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.5",
+    "chunk_id": "III.E.5_chunk_1",
+    "title": "Social Media Policy",
+    "text": "Social Media Policy. The Company knows that online social platforms, including blogs, wikis, message boards, video and photo sharing websites, and social networking services, are constantly transforming the way we interact. We also recognize the importance of the Internet in shaping the public view of our Company. The Company is committed to supporting your right to interact responsibly and knowledgeably on the Internet through blogging and interaction in social media. We want our members to share and learn from others in order to build a valuable online community. The purpose of these guidelines is two-fold: First, the Company has an aim to protect our interests, including, but not limited to, the privacy of our employees and confidentiality regarding our business purpose, plans, partners, users, and competitors. Second, these guidelines will help you make respectful and appropriate decisions about your work-related interactions with people on the Internet. Your personal online activity is your business. However, any activity in or outside of work that affects your performance, the performance of others at the Company, or the Company's business interests are a proper focus for this Social Media Policy. You must always assume that your work- related social media activity is visible to the Company as well as current and potential employees, clients, partners, prospects, and competitors. The Company reserves the right to direct its members to avoid certain subjects and remove inappropriate comments and posts. Our internal policies remain in effect in our workplace. You may NOT use Facebook or any other social medium while at work. Guidelines for Discussing the Company on the Internet You are not authorized to speak on behalf of the Company without express permission from the Executive Team. If you have permission to discuss the Company and / or our current and potential business activities, employees, partners, clients, or competitors, please follow these guidelines: Identification: Identify yourself. Include your name, and when appropriate, state your role or title within the Company. Disclaimer: Use a disclaimer that \"the views you express on the particular website are yours alone and do not represent the views of the Company.\" Proof: Support any statements made online with factual evidence. Also, let your manager know about the content you plan to publish. Your manager may want to visit the website to understand your point of view. Guidelines for Confidential and Proprietary Information You may not share information that is confidential and proprietary about the Company. This includes, but is not limited to, company strategy, information about trademarks, upcoming product releases, sales, finances, number of products sold, number of employees, and any other information that has not been publicly released by the Company. The list above is given as example only and does not cover the range of what the Company considers confidential and proprietary. If you have any questions about whether information has been released publicly or any other concerns, please speak with your manager before releasing information that could potentially harm the Company, or our current and potential business interests, employees, partners, and clients. For additional information on proprietary information, please review the Employee Handbook and the contract you signed when you joined the Company. The Company's logo and trademarks may not be used without explicit permission in writing from the Company. This is to prevent the appearance that you speak for or officially represent the Company. It is fine to quote or retweet others, but you should not attempt to pass off someone else's words, photography, or other information as your own. All copyright, privacy, and other laws that apply offline apply online as well. Always give proper credit to credit your sources when posting a link or information gathered from another source. Transparency and Disclosures If you have permission to publicly share what a client, partner, or other organization is doing, such as launching a new website or coming out with a new product, you must disclose your relationship to the other party. Do not discuss an organization or product in social media in exchange for money. If you receive a product or service to review for free, you must disclose it in your post or review. Respect and Privacy Rights - Use common sense. - Follow the rules of the social media sites you use. - Speak respectfully about the Company and our current and potential employees, clients, partners, and competitors. - Write knowledgeably, accurately, and with appropriate professionalism. Despite disclaimers, your Web interaction can result in members of the public forming opinions about the Company and its employees, partners and business interests. - Refrain from publishing anything that could reflect negatively on the Company's reputation or otherwise embarrass the organization, including posts about drug or alcohol abuse, profanity, off-color or sexual humor, and other inappropriate conduct. Do not use ethnic slurs, personal insults, obscenity, or engage in",
+    "token_count": 1040
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.5",
+    "chunk_id": "III.E.5_chunk_2",
+    "title": "Social Media Policy",
+    "text": "of the social media sites you use. - Speak respectfully about the Company and our current and potential employees, clients, partners, and competitors. - Write knowledgeably, accurately, and with appropriate professionalism. Despite disclaimers, your Web interaction can result in members of the public forming opinions about the Company and its employees, partners and business interests. - Refrain from publishing anything that could reflect negatively on the Company's reputation or otherwise embarrass the organization, including posts about drug or alcohol abuse, profanity, off-color or sexual humor, and other inappropriate conduct. Do not use ethnic slurs, personal insults, obscenity, or engage in any conduct that would not otherwise be acceptable in the Company's workplace. Please also show respect for topics that may be considered objectionable or inflammatory. - Honor the privacy rights of our current staff, members, and partners by seeking their permission before writing about or displaying internal company information that could be considered a breach of their privacy and confidentiality. - Ensure that your social networking conduct is consistent with the all policies contained in the Company's Employee Handbook. - Respect the law, including those laws governing defamation, discrimination, harassment, and copyright and fair use. Media inquiries for information about our Company and our current and potential products, employees, partners, clients, and competitors should be referred to the _________________. This does not specifically include your opinions, writing, and interviews on topics aside from our Company and our current and potential products, employees, partners, clients, and competitors. Non-Competition You may not sell any product or service that would compete with any of the Company's products or services without permission in writing from Executive Team. This includes, but is not limited to trainings, books, products, and freelance writing. If in doubt, discuss this matter with your Executive Team. Your Legal Liability The Company complies with all federal and state laws that apply to our operations and activities. Since you are involved in the Company's operations and activities, you are responsible for understanding and observing these policies. Note that the breach of privacy and confidentiality, use of copyrighted materials, unfounded or derogatory statements, or misrepresentation may be considered illegal and is not accepted by the Company. Each person at the Company is personally responsible, and may be legally liable, for the content he or she publishes online. You can be sued for not disclosing your relationship to the Company, or for purposely spreading false information. You can also be sued by company employees, competitors, and any individual or company that views your commentary, content, or images as defamatory, pornographic, proprietary, harassing, libelous or creating a hostile work environment. In addition to any legal action, your activity can result in disciplinary action up to and including employment termination. If you have any questions, please ask the President's Office for guidance on compliance with the laws.",
+    "token_count": 612
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.6",
+    "chunk_id": "III.E.6_chunk_1",
+    "title": "Harassment-Free Workplace Policy Statement",
+    "text": "Harassment-Free Workplace Policy Statement. Purpose. The Company is committed to providing an environment for our members, directors, officers, employees, volunteers and persons served by the Company (\"Covered Persons\") that is comfortable, safe and free from harassment of any kind. Any type of harassment is a violation of this policy and may be illegal. Definition. Harassment can take many forms. It may be, but is not limited to, the following: words, signs, jokes, pranks, intimidation, physical contact, or violence. Harassment does not have to be sexual in nature. Sexual harassment may include unwelcome sexual advances; requests for sexual favors; or other verbal or physical contact of a sexual nature when such conduct creates an intimidating environment or prevents an individual from effectively performing the duties of his or her position, or when such conduct is made a condition of employment or compensation, either implicitly or explicitly. It is not the intent of the behavior by the offender that determines if harassment has occurred but whether the behavior is welcome by the receiver. Responsibility. A covered person is responsible for helping keep our work environment free of harassment, including the work environment of Company's Clients with whom you have contact. If you become aware of an incident of harassment, whether by witnessing the incident or being told of it, you must report it to the owner or Lori Green, Human Resources Director. When the Company becomes aware of harassment, it is obligated by law to take prompt and appropriate action, regardless of whether the victim wants the company to do so. Complaint Procedure. Any Covered Person, who believes that he or she has suffered harassment in violation of the Harassment Policy, should take the following action:",
+    "token_count": 369
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.6.i",
+    "chunk_id": "III.E.6.i_chunk_1",
+    "title": "If you are able to do so without conflict or danger, tell the harasser as clearly as possible that the behavior is unwelcome;",
+    "text": "If you are able to do so without conflict or danger, tell the harasser as clearly as possible that the behavior is unwelcome;. ii. If the behavior continues, advise your direct supervisor of your complaint. Clearly identify the behavior surrounding the complaint. Confidentiality. The Company, including all persons to whom a violation of this Harassment Policy has been reported and persons who have become aware of a complaint, must maintain confidentiality, to the extent possible given the need to investigate. All complaints shall be considered confidential to the maximum extent possible. Retaliation. The Company, or any director, officer, or employee may not retaliate against any victim, or witness, who reports a violation of this Harassment Policy. Any person who believes that he or she has been retaliated against should consult the Organization's Whistle-Blowing Policy or a Company official.",
+    "token_count": 179
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.7",
+    "chunk_id": "III.E.7_chunk_1",
+    "title": "How Your Job Is Classified",
+    "text": "How Your Job Is Classified. Exempt status is determined by federal and state law. In general, exempt employees are those engaged in executive, managerial, high-level administrative and professional jobs who are paid a fixed salary and perform certain duties. In addition, certain commissioned sales employees and highly paid computer professionals are exempt. Exempt employees are not subject to the minimum wage and overtime laws. All employees who are covered by the federal or state minimum wage and overtime laws are considered nonexempt. Employees working in nonexempt jobs are entitled to be paid at least the minimum wage per hour and a premium for overtime. Regular full-time employees are scheduled to for 40 hours per week and are eligible for all the Company benefits subject to the terms and conditions of the benefit plan or policy. Regular part-time employees are regularly scheduled to work less than 40 hours per week and are not eligible for the Company benefits except as expressly described herein. Temporary and Seasonal employees are hired for a limited period of time and/or for a specific project. These employees may be scheduled to work full or part-time, and are not eligible for any benefits except those required by law. Those employees that work on average under 1,560 a year, shall be considered part time workers (i.e. they way work 59 hours a week for 6 months, and be laid off for six months, and still be considered part time employees.) Each employee will be advised of his or her status at the time of hire and any change in status. Regardless of the employee's status, the employee is employed at-will and the employment relationship can be terminated by the Company or the employee at any time, with or without cause.",
+    "token_count": 379
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.8",
+    "chunk_id": "III.E.8_chunk_1",
+    "title": "Hours and Payroll Practices",
+    "text": "Hours and Payroll Practices. The Company's paydays are every two weeks on Friday. All employees are paid by check or direct deposit on the above-mentioned payday. If the regular payday falls on a weekend or Company holiday, employees will be paid on the last business day before the holiday and/or weekend. Each regular part-time, temporary, or non-salaried employee may be provided a personal clock card. This \"clock card\" may be in the form of a physical time card, electronic software based timecard system or other Company approved time tracking method. If you are an hourly employee, your clock card is your record of employment from which your pay is computed and from which all is determined. It is necessary for each employee to \"clock in\" at the start of work and \"clock out\" when he or she leaves. In the event that an employee fails to \"clock in\" or \"clock out\" a supervisor's approval and signature must be received prior to the submission and payment of any wages. Repeated failure to accurately log hours may result in disciplinary action. If any employee fails to submit a time log, as required, that employee's pay may be delayed.",
+    "token_count": 254
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.9",
+    "chunk_id": "III.E.9_chunk_1",
+    "title": "Overtime",
+    "text": "Overtime. Due to the nature of our business, situations frequently arise which require overtime work. In order to meet customer requirements and in order to ensure efficient utilization of equipment, overtime work may be essential. In such cases, your supervisor will give you as much advance notice as possible. We will cooperate in every case with you in attempting to accommodate your abilities and preferences regarding overtime work. However, we reserve the right to require that any such work be performed.",
+    "token_count": 105
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.10",
+    "chunk_id": "III.E.10_chunk_1",
+    "title": "Wage And Performance Review",
+    "text": "Wage And Performance Review. At least once a year, during the anniversary of your month of hire, your immediate supervisor will conduct a formal performance evaluation. The evaluation will consist of a review of the employee's performance, attitude, attendance, progress and ability. The information required to review your job performance is collected continuously by your supervisor and other management personnel. Evaluations will weigh heavily in determining promotions and merit pay increases. An employee may at any time, take the opportunity to ask questions, make suggestions or to discuss any matters relating to his or her job or the Company in regard to this evaluation.",
+    "token_count": 135
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.11",
+    "chunk_id": "III.E.11_chunk_1",
+    "title": "Promotion",
+    "text": "Promotion. It is the Company's policy to promote employees from within the Company, insofar as possible, to all jobs in which vacancies arise. Factors considered in making promotions are employee knowledge, education, computer skills, loyalty to the company, training, management skills, efficiency, compatibility with fellow employees, and the ability to perform the job which is available, with due consideration of the employee's length of continuous service with the Company. In the event of an opening for a promotion, the supervisor will make his or her recommendations to the general manager who, together with the other members of management, shall determine which recommended employee is to be promoted to the open position. All supervisors are charged with the responsibility of recommending the strongest candidates for all open positions in which a promotion is involved within the organization.",
+    "token_count": 176
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E.12",
+    "chunk_id": "III.E.12_chunk_1",
+    "title": "Layoff",
+    "text": "Layoff. From time to time the business may require a reduction of the Company's work force. Since it is the Company's policy to transfer employees and maintain continuity in the event of a reduction in the work force, the Company will retain those employees who, in management's judgment and discretion, have shown the greatest ability for the jobs available. In the event that two or more employees are judged to be equal in ability for the jobs available, the greater length of continuous service shall govern retention.",
+    "token_count": 113
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.1",
+    "chunk_id": "III.B.1_chunk_1",
+    "title": "Group Health Insurance",
+    "text": "Group Health Insurance. Coverage starts on the first day of work unless you waive coverage. The Company offers group health insurance for 2016, and is now offering open enrollment. If you are a full time employee (average 30 hours a week or more), then you qualify for group health insurance. We offer a PPACA compliant Blue Care Network of Michigan Plan. The cost of the single plan for 2016 is $188.98 per month or 9.49% of W2 wages, whichever is less, meaning the Company will subsidize the difference between the 9.49% of your W2 wages and the $188.98 per month if you do not earn enough. A two person plan is the cost of the single person plan plus $245.68 per month, and the cost of a family plan is the cost of the single person plan plus $330.72 per month. Please see human resources for more information about the health plan. 2016 Employee Health Insurance contributions will never exceed 9.5% of W2 wages! View Larger Chart INITIAL NOTICE OF COBRA CONTINUATION COVERAGE RIGHTS CONTINUATION COVERAGE RIGHTS UNDER COBRA Introduction If you chose to be covered under your employer\u2019s health insurance plan (the Plan), the following is your notice of COBRA continuation coverage rights. This notice contains important information about your right to COBRA coverage, which is a temporary extension of group health coverage under the Plan under certain circumstances when coverage would otherwise end. This notice generally explains COBRA coverage, when it may become available to you and your family, and what you need to do to protect the right to receive it. COBRA (and the description of COBRA coverage contained in this notice) applies only to the group health plan benefits offered under the Plan (the Medical, Dental, Vision, and Health FSA components, if applicable) and not to any other benefits offered under the Plan. The right to COBRA coverage was created by a federal law, Consolidated Omnibus Budget Reconciliation Act of 1985 (COBRA). COBRA coverage can become available to you when you would otherwise lose your group health coverage under the Plan(s). It can also become available to your spouse and dependent children, if they are covered under the Plan when you would otherwise lose their group health coverage under the Plan. This notice does not fully describe COBRA coverage or other rights under the Plan. For additional information about your rights and obligations under the Plan and under federal law, you should review the Plan's summary plan description or contact Laurie Green, which is the Plan administrator. The Plan provides no greater COBRA rights than what COBRA requires- nothing in this notice is intended to expand your rights beyond COBRA requirements. What is COBRA coverage? COBRA coverage is a continuation of Plan coverage when coverage would otherwise end because of a life event known as a \u201cqualifying event.\u201d Specific qualifying events are listed later in the notice. After a qualifying event occurs and any required notice of that event is properly provided to Laurie Green, COBRA coverage must be offered to each person losing Plan coverage who is a \u201cqualified beneficiary.\u201d You, your spouse, and your dependent children could become qualified beneficiaries and would be entitled to elect COBRA if coverage under the Plan is lost because of the qualifying event. (Certain newborns, newly adopted children, and alternate recipients under QMCSOs may also be qualified beneficiaries. This is discussed in more detail in separate paragraphs below.) Under the Plan, qualified beneficiaries who elect COBRA must pay for COBRA coverage. Who is Entitled to Elect COBRA? If you are an employee and elected to be covered under the Plan, you will be entitled to elect COBRA if you will lose your group health coverage under the Plan because either one of the following qualifying events happens: \u2022 Your hours of employment are reduced, or \u2022 Your employment ends for any reason other than your gross misconduct. If you are the spouse of an employee, you will be entitled to elect COBRA if you lose your group health coverage under the Plan because any of the following qualifying events happens: \u2022 Your spouse dies; \u2022 Your spouse's hours of employment are reduced; \u2022 Your spouse's employment ends for any reason other than his or her gross misconduct; \u2022 You become divorced or legally separated from your spouse. Also if your spouse(the employee) reduces or eliminates your group health coverage in anticipation of a divorce or legal separation, and a divorce or legal separation later occurs, then the divorce or legal separation may be considered a qualifying event for you even though your coverage was reduced or eliminated before the divorce or separation. A person enrolled as the employee's dependent child will be entitled to elect COBRA if he or she loses group health coverage under the Plan because",
+    "token_count": 1040
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.1",
+    "chunk_id": "III.B.1_chunk_2",
+    "title": "Group Health Insurance",
+    "text": "any reason other than his or her gross misconduct; \u2022 You become divorced or legally separated from your spouse. Also if your spouse(the employee) reduces or eliminates your group health coverage in anticipation of a divorce or legal separation, and a divorce or legal separation later occurs, then the divorce or legal separation may be considered a qualifying event for you even though your coverage was reduced or eliminated before the divorce or separation. A person enrolled as the employee's dependent child will be entitled to elect COBRA if he or she loses group health coverage under the Plan because any of the following qualifying events happens: \u2022 The parent-employee dies; \u2022 The parent-employee's hours of employment are reduced; \u2022 The parent-employee's employment ends for any reason other than his or her gross misconduct; \u2022 The child stops being eligible for coverage under the Plan as a \u201cdependent child.\u201d When is COBRA Coverage Available? When the qualifying event is the end of employment or reduction of hours of employment or death of the employee, the Plan will offer COBRA coverage to qualified beneficiaries. In addition, if the Plan provides retiree health coverage, then commencement of a proceeding in a bankruptcy with respect to the employer is also a qualifying event. You need not notify LAURIE@MACKINAW-CITY.COM of any of these events. You Must Give Notice of Some Qualifying Events For the other qualifying events (divorce or legal separation of the employee and spouse or a dependent child's losing eligibility for coverage as a dependent child), a COBRA election will be available to you only if you notify Laurie Green in writing within 60 days after the later of (1) the date of qualifying event; and (2) the date on which the qualified beneficiary loses (or would lose) coverage under the terms of the Plan as a result of the qualifying event. In providing this notice, you must use the Plan's form entitled \"Notice of Qualifying Event Form\" you may obtain a copy of this form from LAURIE@MACKINAW-CITY.COM at no charge, and you must follow the notice procedures specified at the end of this notice entitled \"Notice Procedures.\" If these procedures are not followed or if the notice is not provided to your employer during the 60-day notice period, THEN ALL QUALIFIED BENEFICIARIES WILL LOSE THEIR RIGHT TO ELECT COBRA.. Electing Cobra Each qualified beneficiary will have an independent right to elect COBRA coverage. Covered employees and spouses (if the spouse is a qualified beneficiary) may elect COBRA coverage on behalf of all the qualified beneficiaries, and parents may elect COBRA coverage on behalf of their children. Any qualified beneficiary for whom COBRA is not elected within the 60-day election period specified in the Plan's COBRA election notice WILL LOSE HIS OR HER RIGHT TO ELECT COBRA. How Long Does COBRA Coverage Last? COBRA coverage is a temporary continuation of coverage. When the qualifying event is the death of the employee, the covered employee's divorce or legal separation, or a dependent child's losing eligibility as a dependent child, COBRA coverage under the Plan's Medical, Dental and Vision component(s), if applicable, can last for up to a total of 36 months. When the qualifying event is the end of employment or reduction of the employee's hours of employment, and the employee became entitled to Medicare benefits less than 18 months before the qualifying event, COBRA coverage under the Plan's Medical, Dental and Vision component(s), if applicable, for qualified beneficiaries (other than the employee) who lose coverage as a result of the qualifying event can last until up to 36 months after the date of Medicare entitlement. For example, if a covered employee becomes entitled to Medicare 8 months before the date on which their employment terminates, COBRA coverage for their spouse and children who lost coverage as a result of their termination can last up to 36 months after the date of Medicare entitlement, which is equal to 28 months after the date of the qualifying event (36 months minus 8 months). This COBRA coverage period is available only if the covered employee becomes entitled to Medicare within 18 months BEFORE the termination or reduction of hours. Otherwise, when the qualifying event is the end of employment or reduction of the employee's hours of employment, COBRA coverage under the Plan's Medical, Dental and Vision components generally can last for only up to a total of 18 months. COBRA coverage under the Health FSA Reimbursement Account component, if applicable, can last only until the end of the year in which the qualifying event occurred-see the paragraph below entitle \"Health FSA Component,\" The Cobra coverage periods described above are maximum coverage periods. COBRA coverage can end before the end of the maximum coverage periods described in this notice for several reasons, which are described in",
+    "token_count": 1040
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.1",
+    "chunk_id": "III.B.1_chunk_3",
+    "title": "Group Health Insurance",
+    "text": "the end of employment or reduction of the employee's hours of employment, COBRA coverage under the Plan's Medical, Dental and Vision components generally can last for only up to a total of 18 months. COBRA coverage under the Health FSA Reimbursement Account component, if applicable, can last only until the end of the year in which the qualifying event occurred-see the paragraph below entitle \"Health FSA Component,\" The Cobra coverage periods described above are maximum coverage periods. COBRA coverage can end before the end of the maximum coverage periods described in this notice for several reasons, which are described in the Plan's summary plan description. There are two ways (described in the following paragraphs) in which the period of COBRA coverage resulting from a termination of employment or reduction of hours can be extended. (The period of COBRA coverage under the Health FSA cannot be extended under any circumstances). Disability extension of 18-month period of continuation coverage If a qualified beneficiary is determined by the Social Security Administration to be disabled and you notify the employer in a timely fashion, all of the qualified beneficiaries in your family may be entitled to receive up to an additional 11 months of COBRA coverage, for a total maximum of 29 months. This extension is available only for qualified beneficiaries who are receiving COBRA coverage because of a qualifying event that was the covered employee's termination of employment or reduction of hours. The disability must have started at some time before the 61st day after the covered employee's termination of employment or reduction of hours and must last at least until the end of the period of COBRA coverage that would be available without the disability extension(generally 18-months, as described above). The disability extension is available only if you notify the employer in writing of the Social Security Administration\u2019s determination of disability within 60 days after the latest of: \u2022 the date of the Social Security Administration's disability determination; \u2022 the date of the covered employee's termination of employment or reduction of hours; and \u2022 the date on which the qualified beneficiary loses (or would lose) coverage under the terms of the Plan as a result of the covered employee's termination of employment or reduction of hours. You must also provide this notice within 18 months after the covered employees termination of employment or reduction of hours in order to be entitled to a disability extension. You must notify Laurie Green and you must follow the procedures specified in the box at the end of this notice entitled \u201cNotice Procedures.\u201d If these procedures are not followed or if the notice is not provided to the employer during the 60-day notice period and within 18 months after the covered employees termination of employment or reduction of hours, THEN THERE WILL BE NO DISABILITY EXTENSION OF COBRA COVERAGE. Second qualifying event extension of COBRA coverage If your family experiences another qualifying event while receiving COBRA coverage because of the covered employee's termination of employment or reduction of hours (including COBRA coverage during a disability extension period as described above), the spouse and dependent children receiving COBRA coverage can get up to 18 additional months of COBRA coverage, for a maximum of 36 months, if notice of the second qualifying event is properly given to the Plan. This extension may be available to the spouse and any dependent children receiving COBRA coverage if the employee or former employee dies or gets divorced or legally separated, or if the dependent child stops being eligible under the Plan as a dependent child, but only if the event would have caused the spouse or dependent child to lose coverage under the Plan had the first qualifying event not occurred. (This extension is not available under the Plan when a covered employee becomes entitled to Medicare after his or her termination of employment or reduction of hours.) This extension due to a second qualifying event is available only if you notify Laurie Green that works for employer in writing of the second qualifying event within 60 days after the date of the second qualifying event. In providing this notice, you must use the Plan\u2019s form entitled \u201cNotice of Qualifying Event Form\u201d, and you must follow the procedures specified in the box at the end of this notice entitled \u201cNotice Procedures.\u201d If these procedures are not followed or if the notice is not provided to the employer during the 60-day notice period, THEN THERE WILL BE NO EXTENSION OF COBRA COVERAGE DUE TO A SECOND QUALIFYING EVENT. Health FSA Reimbursement Accounts Component, if applicable COBRA coverage under the Health FSA will be offered only to qualified beneficiaries losing coverage who have underspent accounts. A qualified beneficiary has an underspent account if the annual limit elected by the covered employee, reduced by",
+    "token_count": 1040
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.1",
+    "chunk_id": "III.B.1_chunk_4",
+    "title": "Group Health Insurance",
+    "text": "Form\u201d, and you must follow the procedures specified in the box at the end of this notice entitled \u201cNotice Procedures.\u201d If these procedures are not followed or if the notice is not provided to the employer during the 60-day notice period, THEN THERE WILL BE NO EXTENSION OF COBRA COVERAGE DUE TO A SECOND QUALIFYING EVENT. Health FSA Reimbursement Accounts Component, if applicable COBRA coverage under the Health FSA will be offered only to qualified beneficiaries losing coverage who have underspent accounts. A qualified beneficiary has an underspent account if the annual limit elected by the covered employee, reduced by the reimbursable claims submitted up to the time of the qualifying event, is equal to or more than the amount of the premiums for Health FSA COBRA coverage that will be charged for the remainder of the plan year. COBRA coverage will consist of the Health FSA coverage in force at the time of the qualifying event (i.e., the elected annual limit reduced by reimbursable claims submitted up to the time of the qualifying event). The use-it-or-lose-it rule will continue to apply, so any unused amounts will be forfeited at the end of the plan year, and COBRA coverage will terminate at the end of the plan year. Unless otherwise elected, all qualified beneficiaries who were covered under the Health FSA will be covered together for Health FSA COBRA coverage. However, each qualified beneficiary could alternatively elect separate COBRA coverage to cover that beneficiary only, with a separate Health FSA annual limit and a separate premium. If you are interested in this alternative, contact LAURIE@MACKINAW-CITY.COM for more information. More Information About Individuals Who May Be Qualified Beneficiaries Children born to or placed for adoption with the covered employee during COBRA coverage period A child born to, adopted by, or placed for adoption with a covered employee during a period of COBRA coverage is considered to be a qualified beneficiary provided that, if the covered employee is a qualified beneficiary, the covered employee has elected COBRA coverage for himself or herself. The child\u2019s COBRA coverage begins when the child is enrolled in the Plan, whether through special enrollment or open enrollment, and it lasts for as long as COBRA coverage lasts for other family members of the employee. To be enrolled in the Plan, the child must satisfy the otherwise applicable Plan eligibility requirements (for example, regarding age). Alternate recipients under QMCSOs A child of the covered employee who is receiving benefits under the Plan pursuant to a qualified medical child support order (QMCSO) received by the employer during the covered employee\u2019s period of employment with the company is entitled to the same rights to elect COBRA as an eligible dependent child of the covered employee. If You Have Questions Questions concerning your Plan or your COBRA rights should be addressed to the contact identified below. For more information about your rights under ERISA, including COBRA, the Health Insurance Portability and Accountability Act (HIPAA), and other laws affecting group health plans, contact the nearest Regional or District Office of the U.S. Department of Labor\u2019s Employee Benefits Security Administration (EBSA) in your area or visit the EBSA website at www.dol.gov/ebsa. (Addresses and phone numbers of Regional and District EBSA Offices are available through EBSA\u2019s website.) Keep Your Plan Informed of Address Changes In order to protect your family\u2019s rights, you should keep the employer informed of any changes in the addresses of family members. You should also keep a copy, for your records, of any notices you send to the employer. Plan Contact Information You may obtain information about the Plan and COBRA coverage on request from LAURIE Green, the Human Resources Manager. The most recent information is included in the Plan's summary plan description (if you do not have a copy, you may request once from Laurie Green. Notice Procedures Warning: If your notice is late or if you do not follow these notice procedures, you and all related qualified beneficiaries will lose the right to elect COBRA (or will lose the right to an extension of COBRA coverage, as applicable). Notices Must Be Written and Submitted on Plan Forms: Any notice that you provide must be in writing and must be submitted on the Plan\u2019s required form (the Plan\u2019s required forms are described above in this notice, and you may obtain copies from Laurie Green without charge. Oral notice, including notice by telephone, is not acceptable. Electronic (including e-mailed or faxed) notices are not acceptable. How, When, and Where to Send Notices: You must mail or hand deliver your notice to the Human Resources Manager at 706 Huron Street, Mackinaw City, MI 49701. However, if a different address for notices to the Plan appears in the Plan\u2019s most recent summary plan description, you must mail or hand deliver your notice",
+    "token_count": 1040
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.1",
+    "chunk_id": "III.B.1_chunk_5",
+    "title": "Group Health Insurance",
+    "text": "be submitted on the Plan\u2019s required form (the Plan\u2019s required forms are described above in this notice, and you may obtain copies from Laurie Green without charge. Oral notice, including notice by telephone, is not acceptable. Electronic (including e-mailed or faxed) notices are not acceptable. How, When, and Where to Send Notices: You must mail or hand deliver your notice to the Human Resources Manager at 706 Huron Street, Mackinaw City, MI 49701. However, if a different address for notices to the Plan appears in the Plan\u2019s most recent summary plan description, you must mail or hand deliver your notice to that address (if you do not have a copy of the Plan\u2019s most recent summary plan description, you may request one from LAURIE Green. If mailed, your notice must be postmarked no later than the last day of the applicable notice period. If hand-delivered, your notice must be received by the individual at the address specified above no later than the last day of the applicable notice period. (The applicable notice periods are described in the paragraphs above entitled \u201cYou Must Give Notice of Some Qualifying Events,\u201d \u201cDisability extension of COBRA coverage,\u201d and \u201cSecond qualifying event extension of COBRA coverage.\u201d) Information Required for All Notices: Any notice you provide must include: (1) the name of the Plan; (2) the name and address of the employee who is (or was) covered under the Plan; (3) the name(s) and address(es) of all qualified beneficiary(ies) who lost coverage as a result of the qualifying event; (4) the qualifying event and the date it happened; and (5) the certification, signature, name, address, and telephone number of the person providing the notice. Additional Information Required for Notice of Qualifying Event: If the qualifying event is a divorce or legal separation, your notice must include a copy of the decree of divorce or legal separation. If your coverage is reduced or eliminated and later a divorce or legal separation occurs, and if you are notifying Laurie Green that your Plan coverage was reduced or eliminated in anticipation of the divorce or legal separation, your notice must include evidence satisfactory to your employer that your coverage was reduced or eliminated in anticipation of the divorce or legal separation. Additional Information Required for Notice of Disability: Any notice of disability that you provide must include: (1) the name and address of the disabled qualified beneficiary; (2) the date that the qualified beneficiary became disabled; (3) the names and addresses of all qualified beneficiaries who are still receiving COBRA coverage; (4) the date that the Social Security Administration made its determination; (5) a copy of the Social Security Administration's determination; and (6) a statement whether the Social Security Administration has subsequently determined that the disabled qualified beneficiary is no longer disabled. Additional Information Required for Notice of Second Qualifying Event: Any notice of a second qualifying event that you provide must include: (1) the names and addresses of all qualified beneficiaries who are still receiving COBRA coverage; (2) the second qualifying event and the date that it happened; and (3) if the second qualifying event is a divorce or legal separation, a copy of the decree of divorce or legal separation. Who May Provide Notices: The covered employee (i.e., the employee or former employee who is or was covered under the Plan), a qualified beneficiary who lost coverage due to the qualifying event described in the notice, or a representative acting on behalf of either may provide notices. A notice provided by any of these individuals will satisfy any responsibility to provide notice on behalf of all qualified beneficiaries who lost coverage due to the qualifying event described in the notice.",
+    "token_count": 796
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.2",
+    "chunk_id": "III.B.2_chunk_1",
+    "title": "Group Life Insurance Policy",
+    "text": "Group Life Insurance Policy. The Company does not currently offer Group Life Insurance benefits.",
+    "token_count": 18
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.3",
+    "chunk_id": "III.B.3_chunk_1",
+    "title": "Workers' Compensation Insurance",
+    "text": "Workers' Compensation Insurance. Should you become injured on the job, the Company carries workers' compensation insurance. The policy requires that all injuries be reported immediately, in person to your supervisor in order that proper medical attention can be obtained from you and reports made to the proper governmental authorities. The failure to promptly report an accident, injury, or illness may result in the loss of coverage under workers\u2019 compensation insurance. For injuries requiring medical attention, your supervisor or management will assist you in making any additional arrangements.",
+    "token_count": 113
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.4",
+    "chunk_id": "III.B.4_chunk_1",
+    "title": "Funeral Leave",
+    "text": "Funeral Leave. Regular full-time employees are eligible for funeral leave without pay beginning their first full day of employment.",
+    "token_count": 24
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.5",
+    "chunk_id": "III.B.5_chunk_1",
+    "title": "Jury Duty",
+    "text": "Jury Duty. Any employee who is requested to perform service as a juror shall be given time off without pay while serving on the jury.",
+    "token_count": 32
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.6",
+    "chunk_id": "III.B.6_chunk_1",
+    "title": "Social Security Benefits",
+    "text": "Social Security Benefits. The Company is a vital partner in the matter of the employee's Social Security benefits. The Social Security funds, made up of the FICA (Federal Insurance Contributions Act) tax deducted from each employee's paycheck and matched by the Company with an equal amount, are on deposit with the Treasurer of the U.S. At retirement, or in the event of disability, employees will be eligible to participate in the Social Security Plan. The employee's income and age are the factors that determine the amount an employee will receive in benefits.",
+    "token_count": 119
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.7",
+    "chunk_id": "III.B.7_chunk_1",
+    "title": "Leave of Absence",
+    "text": "Leave of Absence. There may be times when it becomes necessary for you to request an unpaid leave of absence. The purpose of the leave of absence program is to protect your service record during periods when you are authorized to be absent from work. Leave include military leave, personal leave and medical leave.",
+    "token_count": 70
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.7.a",
+    "chunk_id": "III.B.7.a_chunk_1",
+    "title": "Military Leave",
+    "text": "Military Leave. All employees required to go into military service will be treated as though on an unpaid leave of absence in accordance with federal law. Nothing in this provision is intended to restrict any rights granted to employees under federal law.",
+    "token_count": 54
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.7.b",
+    "chunk_id": "III.B.7.b_chunk_1",
+    "title": "Personal Leave",
+    "text": "Personal Leave. Personal leave is unpaid and for a specified period not to exceed 3 days and may be granted only for unusual or extenuating personal or family reasons. You must submit to Lauri Greene a written request for personal leave which sets forth the reasons why a leave of absence is necessary. For a leave to be granted, the reason must be acceptable to management at its discretion.",
+    "token_count": 89
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.7.c",
+    "chunk_id": "III.B.7.c_chunk_1",
+    "title": "Medical Leave",
+    "text": "Medical Leave. Medical leave is unpaid and will be granted when an employee is disabled from working for medical reasons. To be granted medical leave of absence, you must submit a statement from your physician setting forth the nature and extent of the disability, and the date of expected return to work.",
+    "token_count": 67
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.7.d",
+    "chunk_id": "III.B.7.d_chunk_1",
+    "title": "Family Medical Leave Act",
+    "text": "Family Medical Leave Act. FMLA means an unpaid leave which qualifies under the Family and Medical Leave Act of 1993 and the Department of Labor's regulations and is designated by Company as so qualifying. Some states have family and medical leave laws that may entitle employees to benefits different than those provided under the Company's FMLA policy. Applicable law is based on the state in which you are employed, not the state in which you live.",
+    "token_count": 98
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.8",
+    "chunk_id": "III.B.8_chunk_1",
+    "title": "Rest and Lunch Periods",
+    "text": "Rest and Lunch Periods. Nonexempt employees scheduled to work more than five hours in a workday are provided with a 30-minute unpaid, duty-free meal period. Supervisors will schedule meal periods to accommodate operating requirements.",
+    "token_count": 44
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.9",
+    "chunk_id": "III.B.9_chunk_1",
+    "title": "Holidays",
+    "text": "Holidays. There are no paid holidays.",
+    "token_count": 7
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.10",
+    "chunk_id": "III.B.10_chunk_1",
+    "title": "Suggestions and Complaints",
+    "text": "Suggestions and Complaints. In any business where individuals are working together, employee complaints or ideas for improvement are bound to arise. It is the desire and responsibility of management to attempt to answer and solve problems whether of a business or personal nature. This Company maintains an open door policy so that any employee has the right to discuss matters directly with any member of management he or she selects. Generally, complaints or suggestions may be taken up with your supervisor or the Human Resources Department. We recognize and value employees' suggestions and note that often times they may find their way into actual practice. If satisfactory action is not taken, you should discuss the matter with the general manager. If still not satisfied, any member of management is available to discuss problems, whether business or personal, with any employee.",
+    "token_count": 182
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.11",
+    "chunk_id": "III.B.11_chunk_1",
+    "title": "Bulletin Boards",
+    "text": "Bulletin Boards. The Company bulletin board is reserved for management's exclusive use. All notices from the Company relating to benefits, holidays, etc., will be posted on it. Employees may not post notices or materials on the Company bulletin board.",
+    "token_count": 50
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.12",
+    "chunk_id": "III.B.12_chunk_1",
+    "title": "Paid time off Policy in Compliance with Michigan Earned Sick Time Act",
+    "text": "Paid time off Policy in Compliance with Michigan Earned Sick Time Act. If Employer has ten (10) or less employees, the Effective Date of this letter and policy is October 1, 2025. Otherwise, the Effective Date is February 21, 2025. Employer has made the following changes to our paid time off policies in compliance with Michigan\u2019s Earned Sick Time Act: \u00b7 ALL employees regardless of status (full-time, part-time, temporary, seasonal, hourly, salary, etc.) will begin accruing one hour of paid sick time for every 30 hours worked as of the applicable Effective Date above or your start date, whichever is later. \u00b7 The use of your accrued paid sick time is subject to an initial 120-day waiting period after the date when you commence employment. \u00b7 Accrued sick time can be used in one-minute increments with as much notice as is practicable given the circumstances of the absence. It is our policy to require at least 72 hours\u2019 notice of any absence. If the absence is foreseeable, it is our policy to require at least seven (7) days\u2019 notice before the date when the earned sick time is to begin. \u00b7 If Employer has ten (10) or less employees, once accrued, you can use up to 72 hours accrued sick time per year. Otherwise, once accrued, you can use up to 72 hours of sick time each year. \u00b7 If Employer has ten (10) or less employees, any accrued, unused sick time will carry over from year to year up to 40 hours maximum. Otherwise, any accrued, unused sick time will carry over from year to year up to 72 hours maximum. However, a 2-month interruption in employment will result in loss of all accrued stick time. \u00b7 For the purposes of this policy, Employer defines a \u201cyear\u201d as beginning on January 1 and running for 12 consecutive months. \u00b7 Accrued, unused sick time is not eligible for payout at the time of separation nor at the end of a benefit year. Employees can use accrued sick time for any of the following reasons: (a) The employee\u2019s mental or physical illness, injury or health condition; medical diagnosis, care or treatment of the employee\u2019s mental or physical illness, injury, or health condition; or preventative medical care for the employee. (b) For the employee\u2019s family member\u2019s mental or physical illness, injury, or health condition; medical diagnosis, care or treatment of the employee\u2019s family members\u2019 mental or physical illness, injury or health condition; or preventive medical care for a family member of the employee. (c) If the employee or the employee\u2019s family member is a victim of domestic violence or sexual assault, for medical care or psychological or other counseling for physical or psychological injury or disability; to obtain services from a victim services organization; to relocate due to domestic violence or sexual assault; to obtain legal services; or to participate in any civil or criminal proceedings related to or resulting from the domestic violence or sexual assault. (d) For meetings at a child\u2019s school or place of care related to the child\u2019s health or disability, or the effects of domestic violence or sexual assault on the child; or (e) For the closure of the employee\u2019s place of business by order of a public official due to a public health emergency; for an employee\u2019s need to care for a child whose school or place of care has been closed by order of a public official due to a public health emergency; or when it has been determined by the health authorities having jurisdiction or by a health care provider that the employee\u2019s or employee\u2019s family member\u2019s presence in the community would jeopardize the health of others because of the employee\u2019s or family member\u2019s exposure to a communicable disease, whether or not the employee or family member has actually contracted the communicable disease. You will not be penalized or retaliated against in any way for requesting or using your accrued paid sick time for the purposes designated above. Employees who feel as though their rights under this act have been violated can file a complaint with the Wage and Hour Division of the Michigan Department of Labor and Economic Growth. Please direct any questions regarding this policy change to the Human Resources Department.",
+    "token_count": 921
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B.12",
+    "chunk_id": "III.B.12_chunk_2",
+    "title": "Paid time off Policy in Compliance with Michigan Earned Sick Time Act",
+    "text": "regarding this policy change to the Human Resources Department.",
+    "token_count": 11
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.A",
+    "chunk_id": "III.A_chunk_1",
+    "title": "Changes of Address",
+    "text": "Changes of Address. When you change your address or telephone number, you should notify the payroll department in writing of the change immediately, in order that the Company will always have the correct home address and telephone number by which your home can be reached. It is important that the Company be able to communicate with you, or, in the event of necessity or emergency, with members of your family, and this can only be done if an accurate record of your address and telephone number is on file with the payroll department. Proper mailing addresses are also necessary in order to keep records on a current basis for federal and state taxes, and group insurance coverage\u2019s that may or may not be extended by the Company.",
+    "token_count": 165
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.B",
+    "chunk_id": "III.B_chunk_1",
+    "title": "Absence",
+    "text": "Absence. Regular attendance is necessary in order to meet customer needs. Production on all equipment is carefully scheduled and the absence of key people can easily cause a failure to deliver an order to a customer by the promised time. Written permission from a physician must be obtained before returning to work if you have been absent 2 days or more due to illness. If you fail to call in for a period of 1 day, you will be considered to have voluntarily resigned. An instance of one day absent from work shall be grounds for discipline up to and including discharge.",
+    "token_count": 132
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.C",
+    "chunk_id": "III.C_chunk_1",
+    "title": "Severe Weather Conditions and Other Emergencies",
+    "text": "Severe Weather Conditions and Other Emergencies. When severe weather conditions exist, if you ask to leave work before regular quitting time, you may do so with your supervisor's approval unless your services are essential for the completion of work in progress. Non-exempt employees who leave early will not be paid for time lost. Those who cannot be released will be paid their regular straight time rate of pay.",
+    "token_count": 88
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.D",
+    "chunk_id": "III.D_chunk_1",
+    "title": "Visitors",
+    "text": "Visitors. As a general rule, employees should not have visitors joining them during working hours. Visitors are not allowed without special permission from management. All visitors must enter through the front entrance and be registered at the reception desk. It shall be the responsibility of each supervisor to enforce this policy.",
+    "token_count": 66
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.E",
+    "chunk_id": "III.E_chunk_1",
+    "title": "Dress Standards",
+    "text": "Dress Standards. What we wear to work is a reflection of the pride we have in our Company, in what we do and in ourselves. Although dress code requirements will vary according to job responsibilities, we ask that your appearance at all times show discretion, good taste, and not present a hazard in the performance of your job.",
+    "token_count": 75
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.F",
+    "chunk_id": "III.F_chunk_1",
+    "title": "Personal Mail",
+    "text": "Personal Mail. All personal mail should be received by employees at home. In the normal operation of business, however, incoming mail is frequently addressed to individual employees. While this practice is not desirable, every effort will be made to deliver the mail to the proper party. It should be remembered, however, that all business mail is opened upon receipt.",
+    "token_count": 76
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.G",
+    "chunk_id": "III.G_chunk_1",
+    "title": "Solicitation",
+    "text": "Solicitation. Persons not employed by the Company may not, at any time, solicit or distribute literature or other printed materials on Company property for any purpose. Employees may not solicit during working time in work areas or distribute literature or other printed material during working time or in working areas. \"Working time\" is the time employees are engaged, or should be engaged, in performing their work tasks for the Company. It includes the working time of both the employee doing the soliciting or distributing and the employee being solicited or to whom literature is distributed. \"Working time\" does not include the time when employees are properly not performing their work duties, for example, scheduled meal times and breaks. If you have any questions regarding the meaning of \"working time\" or \"working areas,\" please inquire in the general manager's office.",
+    "token_count": 180
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.H",
+    "chunk_id": "III.H_chunk_1",
+    "title": "Collections",
+    "text": "Collections. Collections for any cause are not to be taken up without prior approval of your supervisor.",
+    "token_count": 22
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.I",
+    "chunk_id": "III.I_chunk_1",
+    "title": "Injuries and Illness",
+    "text": "Injuries and Illness. Whenever you feel ill, you should immediately inform your supervisor that you are ill. In the event the illness prevents your continuing work, the general manager shall be notified and you shall be advised to go home and consult your family physician. If necessary, some other person will accompany you home. In the case of injury of any kind, no matter how minor, you should immediately report the injury to your supervisor and to Laurie Greene. You may leave a voice mail if she is not available. In the event of a serious injury, arrangements will be made to take you to the hospital. Only authorized personnel may dispense first-aid supplies.",
+    "token_count": 148
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.J",
+    "chunk_id": "III.J_chunk_1",
+    "title": "Substance Abuse Policy",
+    "text": "Substance Abuse Policy. Company takes seriously the problem of drug and alcohol abuse and is committed to providing a work-place free of such substances. This policy applies to all employees of the Company. No employee is allowed to consume, possess, or purchase any alcoholic beverage on any property owned by the Company. No employee may use, possess, sell, transfer, or purchase any drug or other controlled substance that may alter an individual\u2019s mental or physical capacity while working for Company. The company also cautions against use of prescribed or over-the-counter medication which can affect your work place performance. You may be suspended or discharged if the company concludes that you cannot perform you job properly or safely because of using over-the-counter or prescribed medication. Company will not tolerate employees that are impaired by or under the influence of alcohol or drugs while working. In cases where the use of alcohol or drugs poses a threat to the safety of other people or property, you must report the violation. Employees who violate our Substance Abuse Policy will be subject to disciplinary action, up to and including termination. As a part of Company\u2019s policy to ensure a drug and alcohol free workplace, within the limits of applicable federal and state laws, Company reserves the right, in its sole discretion, to test for drugs and alcohol. Some such situations may include, but not be limited, to the following:",
+    "token_count": 305
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.F",
+    "chunk_id": "III.F_chunk_1",
+    "title": "As necessary for the safety of employees, customers, or the general public where allowed by statute.",
+    "text": "As necessary for the safety of employees, customers, or the general public where allowed by statute.. All tested employees will be able to receive a copy of the laboratory results that certify the results or the testing done. It is a condition of your employment and continued employment with Company that you comply with the Substance Abuse Policy. Failure to take a requested test may lead to discipline, including possible termination.",
+    "token_count": 92
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.J",
+    "chunk_id": "III.J_chunk_1",
+    "title": "Personal Telephone Calls",
+    "text": "Personal Telephone Calls. Employees are not to receive personal telephone calls while at work, except in emergencies. It is the responsibility of each employee to notify family, friends and others who might call, not to do so during working time in the absence of an emergency.",
+    "token_count": 59
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.K",
+    "chunk_id": "III.K_chunk_1",
+    "title": "Cell Phone Policy",
+    "text": "Cell Phone Policy. Limits Personal cell phone calls shall be limited to real emergencies. Employees shall keep phones on vibrate so loud polyphonic ring tones don't disturb others, and shall not be able to use cell phones within 20 feet of other workers. IF A DESK CLERK PUTS A GUEST ON HOLD OR DOES NOT ANSWER A HOTEL PHONE BY THE SECOND RING BECAUSE HE OR SHE IS ON THEIR CELL PHONE, HE OR SHE WILL BE FIRED IMMEDIATELY. Text Messaging Text messages can be an insidious distraction, with employees engaging covertly in personal conversations during work. If there is a guest in the lobby or on the phone, then you are forbidden to read or send text messages. Some desk clerks tend to sit in a corner and crouch down to play with their cell phones. Often, guests come in and are not acknowledged by feeble minded Facebookers. IF A GUEST COMES IN AND IS NOT ACKNOWLEDGED AT THE DESK WITHIN 5 SECONDS BECAUSE A CLERK IS USING THEIR PHONE, THAT CLERK WILL BE FIRED IMMEDIATELY.",
+    "token_count": 230
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.L",
+    "chunk_id": "III.L_chunk_1",
+    "title": "Use of Company Property",
+    "text": "Use of Company Property. Company will provide you with the necessary equipment to do your job. None of the equipment should be used for personal use, nor should any equipment be removed from Company work premises unless approved by your supervisor. This includes Company vehicles, tools, supplies, inventory, two-way communication equipment, etc. Any items or packages taken out of the work place are subject to inspection at any time. Likewise, any personal desk, filing cabinet, locker, storage space, bags, or backpack is also subjected to inspection at any time.",
+    "token_count": 115
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.L",
+    "chunk_id": "III.L_chunk_1",
+    "title": "Employee Housing and Voluntary Employee Housing Deduction",
+    "text": "Employee Housing and Voluntary Employee Housing Deduction. Subsidized employee housing is offered by the Company. on a first come, first serve basis and is 100% voluntary. The Company does not own housing, but contracts with other entities that provide housing to its employees. Housing is based on at least double occupancy per room (there will be at least two and maybe more than two roommates in one hotel sized room (24 feet x 12 feet). Housing is only available from May through October and is winterized (drained and shut down) for the other six months of the year at which point there is no employee housing available. For employee housing, there shall be a $75 per week of residence voluntary deduction from every paycheck for each week that employee resides in the employee housing with double occupancy (i.e. if he or she resides for two weeks, then $150 shall be deducted from the biweekly payroll check, however the deduction would be $300 for single occupancy). Employee housing is not a condition of employment and is not available to all employees as it is in limited supply. Every employee may arrange for his or her own housing elsewhere. Employee housing is available only to employees. If your employment should end, you shall immediately vacate the employee housing. Also, if you allow anyone to live with you or stay with you even for one night that is not a paying employee, then you shall be responsible for his or her rent as if you occupied two units.",
+    "token_count": 331
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.M",
+    "chunk_id": "III.M_chunk_1",
+    "title": "Referral Policy",
+    "text": "Referral Policy. No employee shall refer any guests or customers to any hotels or restaurants not on the front page of the website of the Mackinaw City Chamber of Tourism (www.mackinaw-city.com). This rule means that any employee caught doing so shall be immediately terminated. You will not disparage any business whether they are a member of the Mackinaw City Chamber of Tourism or not, but you shall actively promote and recommend the businesses on the Mackinaw City Chamber of Tourism (www.mackinaw-city.com) front page.",
+    "token_count": 107
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.N",
+    "chunk_id": "III.N_chunk_1",
+    "title": "Security",
+    "text": "Security. The Company's Human Resources Department is committed to providing the organization with the most thorough and comprehensive security program possible. The program is intended to provide legitimate and reasonable guidelines for safeguarding our facilities and proprietary information. Every employee has an obligation to protect our Company's proprietary data and to practice good security common sense. Further details on specific policies and procedures are provided in this handbook and can be supplemented by the Human Resources Department.",
+    "token_count": 100
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.O",
+    "chunk_id": "III.O_chunk_1",
+    "title": "Gratuities/Gifts",
+    "text": "Gratuities/Gifts. Employees may not accept gifts from business-related sources including free meals.",
+    "token_count": 15
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.P",
+    "chunk_id": "III.P_chunk_1",
+    "title": "Fire Prevention",
+    "text": "Fire Prevention. Fire is always a hazard in any plant in which combustible materials are used. In many, but not all buildings, automatic sprinklers have been installed to minimize the effect of any fire which might develop. However, minor fires can develop which can quickly be brought under control by careful adherence to our fire prevention policies. Each employee must be familiar with the location of fire alarms, fire fighting equipment and the fire exits in the plant. Each employee must be familiar with the proper use of the fire extinguishers located in the plant. If you are unsure about the proper use of the plant fire extinguishers, you should immediately report your concerns to your supervisor, and arrangements for appropriate training will be made. A serious fire would put you and your fellow workers out of work. It is part of each employee's job to protect the property and equipment against fire and other damage by keeping the plant clean and free from rubbish.",
+    "token_count": 214
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.Q",
+    "chunk_id": "III.Q_chunk_1",
+    "title": "Personal Safety Equipment",
+    "text": "Personal Safety Equipment. All employees working with machinery (other than secretarial or clerical staff working with office equipment) must wear gloves, respirators, safety glasses and appropriate work shoes. These will be provided at the Company's expense. Your supervisor will instruct you on the use of all safety equipment. Head wear may be necessary for certain jobs and this will also be provided. Failure to properly wear safety gear may result in disciplinary action.",
+    "token_count": 94
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.R",
+    "chunk_id": "III.R_chunk_1",
+    "title": "Discharge, Discipline and Work Rules",
+    "text": "Discharge, Discipline and Work Rules. For the protection of all employees, and in order to operate efficiently, certain rules are necessary. The following is a partial list of the kinds of improper conduct which shall constitute grounds for disciplinary action, up to and including immediate discharge:",
+    "token_count": 59
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.R.i",
+    "chunk_id": "III.R.i_chunk_1",
+    "title": "Reporting to work under the influence of alcohol or drugs.",
+    "text": "Reporting to work under the influence of alcohol or drugs.. ii. Bringing, possessing, or acquiring alcohol or drugs. iii. Selling or attempting to sell alcohol or drugs to other employees. iv. Theft of Company property, Company time, or fellow worker's personal belongings, or observing the theft of Company property or time and not immediately (within 10 minutes) reporting it the owner and to your supervisor.",
+    "token_count": 84
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.R.v",
+    "chunk_id": "III.R.v_chunk_1",
+    "title": "Punching another employee's time card or allowing another employee to punch your time card.",
+    "text": "Punching another employee's time card or allowing another employee to punch your time card.. vi. You must punch it at the location where you are working. Additionally, any employee may be discharged in the event of continued violation of work rules. Improper conduct may constitute grounds for the issuance of a warning before more severe disciplinary action is taken. The Company has a few; simple rules which are fundamental, and which provide for the safety and protection of its employees. Compliance with these rules is a condition of employment. vi. Be careful-work safely at all times. vii. Report all dangerous conditions and equipment to your supervisor immediately. viii. Report every injury of a serious nature immediately to your supervisor and first aid will be provided. ix. Do not attempt to work if you are taken ill.",
+    "token_count": 176
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.S",
+    "chunk_id": "III.S_chunk_1",
+    "title": "Voluntary Termination",
+    "text": "Voluntary Termination. If you decide to leave the Company, we ask that you provide two weeks' written notice of your intention to quit. Failure to provide such notice will result in ineligibility for re-hire. Walking off the job or absence for more than 1 day without a report to the Company, with the reason for the absence will constitute a voluntary quit. At the time of your termination, you will be asked to sign a termination clearance form and you will receive your final paycheck at the regularly scheduled payroll time for your hours worked. You must pick up your final paycheck in person; final checks will not be mailed to your residence.",
+    "token_count": 146
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "III.T",
+    "chunk_id": "III.T_chunk_1",
+    "title": "References and Recommendations",
+    "text": "References and Recommendations. An employee may request his/her supervisor to provide a letter of recommendation to a prospective employer.",
+    "token_count": 24
+  },
+  {
+    "doc_id": "employee_handbook_v1",
+    "section_id": "VI",
+    "chunk_id": "VI_chunk_1",
+    "title": "Conclusion",
+    "text": "Conclusion. This handbook has outlined the broad principles that guide our Company in its relations with employees. It is quite possible that you may from time to time have questions about Company matters which directly affect you, or you may desire further information about how Company policies apply to your individual case. Should you be unable to find the complete answer to your particular question in this manual, feel free to ask your supervisor. If s/he does not have the information readily available, he or she will get the answer for you. Garbage All large can garbage containers must be double bagged and no liquids may be disposed in them. Upon taking the garbage out please do not drag garbage bags across the carpet. If they are unable to be hauled by hand there are rolling garbage bins and maintenance personal that can help. All garbage must be disposed of in the dumpster provided outside of each hotel or restaurant. Vacuums All vacuums must be only run across carpet and must have no contact with hard floors. They must be lifted only by the handle and do not drag vacuums up any stairs. Reporting Theft No toilet paper, other toiletries, shampoo, conditioner, or soap may be removed from the hotel or garbage and will be considered stealing. If any hotel materials, supplies, or cleaning supplies are caught in any employee housing all residents residing in that room will be prosecuted for theft. Any breakfast person allowing employee to eat in breakfast line will be prosecuted for conspiracy to steal. If any employee witnessed a theft and doesn't report it immediately, then that employee shall be prosecuted along with the person taking the item. All employees No employees are allowed to eat at the hotel breakfast line at any time and no breakfast attendants are allowed to give permission for this either. No employees are permitted to switch shifts without permission from their direct manager, office staff, or the owner of the company. No manager may give any employee permission to leave the property for any reason if you are punched in, give any employee permission to take any company property, give any employee permission to eat breakfast, or give any employee anything that belongs to the hotel. You recommend only restaurants and hotels on map. If you accept a free meal or compensation from any restaurant, you will be terminated. No employee is allowed to sleep on their shift even if the shift is an overnight shift such as a night audit position. No cell phones are allowed and each employee must take lunch break at a scheduled time. If you must take lunch or dinner break at different time, then punch out and punch back in at scheduled time. Do not leave windows open if air conditioning or heat is on at employee housing or in hotel rooms. Incident/Property Damage Report Form (Print this form and use as a copy master.) Reported By _________________________________ Dept. ____________________ Date _________ Date of Incident ______________ Time of Incident __________ a.m. _________p.m. Location of Incident ________________________________________________________ Was Police Dept. Notified ___yes ____no Fire Dept. ____yes ____no Incident Report Please provide a brief description of the type of damage: _____ Injury to Person __________________________________________________________________________ _____ Damage to Property ______________________________________________________________________ _____ Other (describe)__________________________________________________________________________ Name of Party ___________________________________________________ Phone___________________________ Address (include complete address, with street address, city, state and zip) ________________________________________________________________________________________ Driver's License No. ________________________________________________________________________________ Briefly Describe What Happened: _____________________________________________________________________ ________________________________________________________________________________________________________________________________________________________________________________ Did party indicate intent to file a claim against agency? ___yes ___no Witnesses: Name _____________________________Address _______________________________ Phone ______________ Name _____________________________Address _______________________________ Phone ______________ Name _____________________________Address _______________________________ Phone ______________ Incident Activity Log Date _______________ Comments __________________________________Diary/Activity __________________ ________________________________________________________________________________________ ________________________________________________________________________________________ ________________________________________________________________________________________ ________________________________________________________________________________________",
+    "token_count": 799
+  }
+]

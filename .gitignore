@@ -10,7 +10,7 @@ __pycache__/
 
 
 # Vector database & generated data
-data/
+
 logs/
 
 # IDE
