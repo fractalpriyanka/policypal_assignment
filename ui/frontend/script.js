@@ -1,5 +1,5 @@
 // Configuration
-const API_URL = "http://localhost:8000";
+const API_URL = "https://policypal-6inh.onrender.com/";
 
 // State
 let conversationHistory = [];
