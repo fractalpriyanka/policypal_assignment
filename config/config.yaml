@@ -1,0 +1,33 @@
+google_doc_url: "https://docs.google.com/document/d/1MX7fjDUolX6EpCbrwTpmDY8tHsL9ttbP/edit?usp=sharing&ouid=110425515033560647396&rtpof=true&sd=true"
+
+paths:
+  raw_data: data/raw
+  processed_data: data/processed
+  structured_input: data/processed/structured_doc.json
+  chunked_output: data/processed/chunked_doc.json
+
+logging:
+  log_file: logs/pipeline.log
+
+chunking:
+  max_tokens: 800
+  overlap_tokens: 100
+
+
+embedding:
+  model_name: all-MiniLM-L6-v2
+
+paths:
+  chunked_input: data/processed/chunked_doc.json
+  vector_index: data/vector_db/faiss.index
+  vector_metadata: data/vector_db/metadata.json
+
+
+retrieval:
+  top_k: 3
+
+gemini:
+  provider: google-genai
+  model_name: gemini-2.5-flash
+  temperature: 0.2
+  max_output_tokens: 1024

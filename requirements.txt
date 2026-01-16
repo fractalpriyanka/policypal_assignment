@@ -1,0 +1,15 @@
+requests
+python-dotenv
+pyyaml
+beautifulsoup4
+lxml
+# google-generativeai
+sentence-transformers
+faiss-cpu
+numpy
+google-genai
+streamlit
+fastapi 
+uvicorn 
+pydantic
+

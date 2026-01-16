@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PolicyPal - Employee Policy Assistant</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- Header -->
+    <header class="header">
+      <div class="header-content">
+        <div class="logo">
+          <svg
+            class="logo-icon"
+            viewBox="0 0 24 24"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+            <path
+              d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+          <button class="theme-toggle" id="themeToggle">🌙</button>
+
+          <div class="logo-text">
+            <h1>PolicyPal</h1>
+            <p>Your AI Employee Policy Assistant</p>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Chat Container -->
+    <main class="chat-container">
+      <div class="chat-wrapper">
+        <!-- Messages Area -->
+        <div class="messages-area" id="messagesArea">
+          <!-- Welcome message -->
+          <div class="message assistant-message">
+            <div class="message-header">
+              <div class="avatar assistant-avatar">
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </div>
+              <span class="message-sender">PolicyPal</span>
+              <span class="message-time" id="welcomeTime"></span>
+            </div>
+            <div class="message-content">
+              Hello! I'm PolicyPal, your employee policy assistant. Ask me
+              anything about company policies, benefits, or procedures.
+            </div>
+          </div>
+        </div>
+
+        <!-- Example Questions (shown initially) -->
+        <div class="example-questions" id="exampleQuestions">
+          <p class="example-label">Try asking:</p>
+          <div class="example-grid">
+            <button
+              class="example-btn"
+              onclick="setQuery('What is the vacation policy?')"
+            >
+              What is the vacation policy?
+            </button>
+            <button
+              class="example-btn"
+              onclick="setQuery('How do I request time off?')"
+            >
+              How do I request time off?
+            </button>
+            <button
+              class="example-btn"
+              onclick="setQuery('What are the remote work guidelines?')"
+            >
+              What are the remote work guidelines?
+            </button>
+            <button
+              class="example-btn"
+              onclick="setQuery('Tell me about the conflict of interest policy')"
+            >
+              Tell me about the conflict of interest policy
+            </button>
+          </div>
+        </div>
+
+        <!-- Input Area -->
+        <div class="input-area">
+          <div class="input-wrapper">
+            <textarea
+              id="userInput"
+              placeholder="Ask about policies, benefits, procedures..."
+              rows="1"
+            ></textarea>
+            <button class="send-btn" id="sendBtn" onclick="sendMessage()">
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M22 2L11 13"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+                <path
+                  d="M22 2L15 22L11 13L2 9L22 2Z"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </button>
+          </div>
+          <p class="input-hint">
+            Powered by semantic search & AI • Press Enter to send
+          </p>
+        </div>
+      </div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
