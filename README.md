@@ -236,7 +236,7 @@ Splits document into embedding-safe chunks.
 python embeddings/run_embedding.py
 Creates FAISS vector database.
 
-✅ Step 4 — RAG Testing (CLI)
-python rag/test_rag.py
+✅ Step 4 — Run streamlit_app.py
+python -m streamlit run ui/streamlit_app.py
 
 Test question answering in terminal.
