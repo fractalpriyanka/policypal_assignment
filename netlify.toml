@@ -1,3 +1,11 @@
 [build]
-  publish = "ui/frontend"
-  command = ""
+publish = "ui/frontend"
+command = "echo 'Skipping backend build'"
+
+[build.environment]
+NETLIFY_SKIP_PYTHON = "true"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
