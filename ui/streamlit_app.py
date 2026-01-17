@@ -103,7 +103,7 @@ cols = st.columns(3)
 for i, q in enumerate(RECOMMENDED_QUESTIONS):
     if cols[i % 3].button(q):
         st.session_state.prefilled_query = q
-        st.experimental_rerun()
+        st.rerun()   # ✅ FIXED
 
 
 # ---------------- USER INPUT ----------------
@@ -207,7 +207,7 @@ for chat in reversed(st.session_state.chat_history):
                 key=f"{chat['time']}_{i}"
             ):
                 st.session_state.prefilled_query = fq
-                st.experimental_rerun()
+                st.rerun()   # ✅ FIXED
 
     st.divider()
 
