@@ -12,7 +12,9 @@ from rag.rag_pipeline import RAGPipeline
 # ---------------- GLOBAL PIPELINE ----------------
 
 rag = None
-# ---------------- LIFESPAN (HF RECOMMENDED) ----------------
+
+
+# ---------------- LIFESPAN (IMPORTANT) ----------------
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -22,26 +24,32 @@ async def lifespan(app: FastAPI):
         rag = RAGPipeline()
         print("✅ RAG pipeline loaded successfully")
     except Exception as e:
-        print("❌ Failed to initialize RAG:", e)
+        print("❌ Failed to initialize RAG:", repr(e))
         rag = None
 
     yield
 
     print("🛑 Shutting down application...")
+
+
 # ---------------- APP INIT ----------------
+# 🔥 lifespan MUST be passed here
 
-app = FastAPI(title="RAG Document Chatbot API")
+app = FastAPI(
+    title="RAG Document Chatbot API",
+    lifespan=lifespan
+)
 
-# Enable CORS for frontend
+
+# ---------------- CORS ----------------
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],   # Change in production
-    allow_origin_regex="https://.*\\.hf\\.space",
+    allow_origins=["*"],   # tighten in production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 
 # ---------------- DATA MODELS ----------------
@@ -80,32 +88,36 @@ def health():
     return {"status": "healthy"}
 
 
+@app.get("/debug/rag")
+def debug_rag():
+    return {
+        "rag_is_none": rag is None,
+        "rag_type": str(type(rag))
+    }
+
+
 # ---------------- QUERY REPHRASING ----------------
 
-def rephrase_query(query: str, history: List[ChatTurn]):
-
+def rephrase_query(query: str, history: List[ChatTurn]) -> str:
     if not history:
         return query
 
     last_turn = history[-1]
 
-    followup_words = ["this", "that", "it", "they", "those", "these"]
+    followup_words = {"this", "that", "it", "they", "those", "these"}
 
     is_followup = any(w in query.lower().split() for w in followup_words)
 
-    # Also treat very short queries as follow-up
+    # Very short queries are likely follow-ups
     if len(query.split()) <= 5:
         is_followup = True
 
     if is_followup:
-
-        rewritten = (
+        return (
             f"Previous question: {last_turn.question}. "
             f"Follow-up question: {query}. "
             f"Answer using the policy document."
         )
-
-        return rewritten
 
     return query
 
@@ -115,27 +127,43 @@ def rephrase_query(query: str, history: List[ChatTurn]):
 @app.post("/chat", response_model=ChatResponse)
 async def chat(request: ChatRequest):
 
-    try:
+    if rag is None:
+        raise HTTPException(
+            status_code=500,
+            detail="RAG pipeline not initialized"
+        )
 
+    try:
         query = request.query.strip()
 
         if not query:
             raise HTTPException(status_code=400, detail="Query cannot be empty")
 
-        # Keep only last 5 turns (like Streamlit session memory)
         history = request.chat_history[-5:] if request.chat_history else []
 
-        # Rephrase query
         final_query = rephrase_query(query, history)
 
-        # Ask RAG
-        answer, sources = rag.ask(final_query)
+        print("🔍 Final query:", final_query)
 
-        # Fallback handling (same behavior as Streamlit)
-        if not answer or len(answer.strip()) == 0:
+        answer, sources = rag.ask(final_query)
+        answer, raw_sources = rag.ask(final_query)
+
+        # Convert raw sources to exact metadata (NO "Source 1")
+        sources = [
+            Source(
+                section_id=src.get("section_id", "N/A"),
+                title=src.get("title", "Unknown Section"),
+                chunk_id=src.get("chunk_id", "N/A")
+            )
+            for src in raw_sources
+        ]
+
+        if not answer or not answer.strip():
             answer = "This information isn't in the document."
             sources = []
 
+
+        
         return ChatResponse(
             answer=answer,
             sources=sources,
@@ -143,10 +171,9 @@ async def chat(request: ChatRequest):
         )
 
     except Exception as e:
-
         error_msg = str(e).lower()
+        print("🔥 CHAT ERROR:", repr(e))
 
-        # Token limit / quota handling
         if "quota" in error_msg or "limit" in error_msg:
             return ChatResponse(
                 answer="API limit reached. Please try again later.",
@@ -154,28 +181,26 @@ async def chat(request: ChatRequest):
                 timestamp=datetime.now()
             )
 
-        # Empty document / private doc
         if "permission" in error_msg or "empty" in error_msg:
             return ChatResponse(
-                answer="Document is empty or access is restricted. Please check the shared link.",
+                answer="Document is empty or access is restricted.",
                 sources=[],
                 timestamp=datetime.now()
             )
 
         raise HTTPException(status_code=500, detail=str(e))
 
-# ---------------- HF PORT BINDING ----------------
+
+# ---------------- LOCAL / HF RUN ----------------
 
 if __name__ == "__main__":
-
     import uvicorn
 
-    port = int(os.environ.get("PORT", 7860))
+    port = int(os.environ.get("PORT", 8000))
 
     uvicorn.run(
         "app:app",
         host="0.0.0.0",
         port=port,
         log_level="info"
-    ))
-
+    )
