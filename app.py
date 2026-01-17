@@ -1,12 +1,33 @@
+import os
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List, Optional
 from datetime import datetime
+from contextlib import asynccontextmanager
 
 from rag.rag_pipeline import RAGPipeline
 
 
+# ---------------- GLOBAL PIPELINE ----------------
+
+rag = None
+# ---------------- LIFESPAN (HF RECOMMENDED) ----------------
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    global rag
+    try:
+        print("📄 Loading metadata and RAG pipeline...")
+        rag = RAGPipeline()
+        print("✅ RAG pipeline loaded successfully")
+    except Exception as e:
+        print("❌ Failed to initialize RAG:", e)
+        rag = None
+
+    yield
+
+    print("🛑 Shutting down application...")
 # ---------------- APP INIT ----------------
 
 app = FastAPI(title="RAG Document Chatbot API")
@@ -15,23 +36,12 @@ app = FastAPI(title="RAG Document Chatbot API")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],   # Change in production
+    allow_origin_regex="https://.*\\.hf\\.space",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-
-# ---------------- LOAD RAG PIPELINE (like Streamlit session) ----------------
-
-rag = None
-
-
-@app.on_event("startup")
-async def startup_event():
-    global rag
-    print("📄 Loading metadata and RAG pipeline...")
-    rag = RAGPipeline()
-    print("✅ RAG pipeline loaded")
 
 
 # ---------------- DATA MODELS ----------------
@@ -154,15 +164,18 @@ async def chat(request: ChatRequest):
 
         raise HTTPException(status_code=500, detail=str(e))
 
+# ---------------- HF PORT BINDING ----------------
+
 if __name__ == "__main__":
+
     import uvicorn
-    import os
 
     port = int(os.environ.get("PORT", 7860))
 
     uvicorn.run(
         "app:app",
         host="0.0.0.0",
-        port=port
-    )
+        port=port,
+        log_level="info"
+    ))
 
