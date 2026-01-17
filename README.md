@@ -1,5 +1,8 @@
 # 📄 RAG-Based Google Doc Chatbot (Gemini + FAISS + Sentence Transformers)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://policypalassignment-koaszomdwha3zn6kyedziu.streamlit.app/)
+
+
 A full-stack **Retrieval-Augmented Generation (RAG)** chatbot that automatically ingests content from a publicly shared Google Document and answers user queries with **accurate, citation-grounded responses**.
 
 The system uses **Sentence Transformers for embeddings**, **FAISS for vector search**, and **Google Gemini (latest SDK)** for answer generation. It includes a **FastAPI backend** and a **web-based HTML/CSS/JS frontend UI**.
@@ -104,16 +107,19 @@ rag-chatbot/
 ---
 
 ## ⚙ Tech Stack
+| Component             | Technology / Status                                |
+| --------------------- | -------------------------------------------------- |
+| LLM                   | Google Gemini (google-genai SDK)                   |
+| Embeddings            | Sentence Transformers (all-MiniLM-L6-v2)           |
+| Vector DB             | FAISS                                              |
+| Backend API           | FastAPI (**Deployment in Progress**)               |
+| Frontend Web App      | HTML, CSS, JavaScript (**Deployment in Progress**) |
+| Streamlit App         | Streamlit (**Deployed**)                           |
+| Config Management     | YAML                                               |
+| Environment Variables | python-dotenv                                      |
+| Hosting (API/UI)      | Render / Hugging Face Spaces (Planned)             |
+| Version Control       | GitHub                                             |
 
-| Component             | Technology                               |
-| --------------------- | ---------------------------------------- |
-| LLM                   | Google Gemini (google-genai SDK)         |
-| Embeddings            | Sentence Transformers (all-MiniLM-L6-v2) |
-| Vector DB             | FAISS                                    |
-| Backend               | FastAPI                                  |
-| Frontend              | HTML, CSS, JavaScript                    |
-| Config                | YAML                                     |
-| Environment Variables | python-dotenv                            |
 
 ---
 
@@ -124,6 +130,11 @@ rag-chatbot/
 - Public Google Document link
 
 ---
+## Deployment Status
+- Streamlit Demo App: Live ✅
+- FastAPI Backend: In Progress 🚧
+- Production Frontend UI: In Progress 🚧
+
 
 ## 🔧 Installation
 
@@ -157,7 +168,7 @@ retrieval:
 top_k: 3
 
 gemini:
-model_name: gemini-1.5-flash
+model_name: gemini-2.5-flash
 temperature: 0.2
 max_output_tokens: 1024
 
