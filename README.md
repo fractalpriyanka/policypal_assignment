@@ -29,7 +29,7 @@ The frontend is a static **HTML/JavaScript** application served locally.
 
 ### 🔹 Connecting Frontend to Backend
 Ensure the backend base URL is correctly set in the frontend JavaScript file:
-``` text const API_BASE_URL = "http://127.0.0.1:8000";```
+``` const API_BASE_URL = "http://127.0.0.1:8000";```
 
 The frontend communicates with the backend using: POST /chat
 
