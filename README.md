@@ -22,13 +22,15 @@ uvicorn app:app --reload
 ```
 ***API Documentation (Swagger UI):** [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
-### 🔹 Frontend (HTML / JavaScript
+### 🔹 Frontend (HTML / JavaScript)
 The frontend is a static **HTML/JavaScript** application served locally.
+
 **Base URL:** [http://127.0.0.1:5500/ui/frontend/index.html](http://127.0.0.1:5500/ui/frontend/index.html)
 
 ### 🔹 Connecting Frontend to Backend
 Ensure the backend base URL is correctly set in the frontend JavaScript file:
-const API_BASE_URL = "http://127.0.0.1:8000";
+``` text const API_BASE_URL = "http://127.0.0.1:8000";```
+
 The frontend communicates with the backend using: POST /chat
 
 ### 🔹 Example API Request
