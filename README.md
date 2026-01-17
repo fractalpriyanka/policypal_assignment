@@ -237,6 +237,6 @@ python embeddings/run_embedding.py
 Creates FAISS vector database.
 
 ✅ Step 4 — Run streamlit_app.py
-python -m streamlit run ui/streamlit_app.py
+``` text python -m streamlit run ui/streamlit_app.py```
 
 Test question answering in terminal.
