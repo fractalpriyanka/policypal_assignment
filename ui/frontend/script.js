@@ -1,5 +1,5 @@
 // Configuration
-const API_URL = "http://localhost:8000";
+const API_URL = "http://0.0.0.0:7860";
 
 // State
 let conversationHistory = [];
