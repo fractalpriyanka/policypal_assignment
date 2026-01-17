@@ -153,3 +153,16 @@ async def chat(request: ChatRequest):
             )
 
         raise HTTPException(status_code=500, detail=str(e))
+
+if __name__ == "__main__":
+    import uvicorn
+    import os
+
+    port = int(os.environ.get("PORT", 7860))
+
+    uvicorn.run(
+        "app:app",
+        host="0.0.0.0",
+        port=port
+    )
+
