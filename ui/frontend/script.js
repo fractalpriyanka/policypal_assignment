@@ -1,5 +1,5 @@
 // Configuration
-const API_URL = "http://0.0.0.0:7860";
+const API_URL = "window.location.origin";
 
 // State
 let conversationHistory = [];
