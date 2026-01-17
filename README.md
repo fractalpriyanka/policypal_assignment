@@ -208,19 +208,18 @@ GEMINI_API_KEY=your_api_key_here
 ### 4️⃣ Update Config File
 
 config/config.yaml
-
-google_doc_url: "PASTE_PUBLIC_GOOGLE_DOC_LINK"
+google_doc_url: [https://docs.google.com/document/d/1MX7fjDUolX6EpCbrwTpmDY8tHsL9ttbP/edit](https://docs.google.com/document/d/1MX7fjDUolX6EpCbrwTpmDY8tHsL9ttbP/edit)
 
 embedding:
-model_name: all-MiniLM-L6-v2
+ model_name: ```all-MiniLM-L6-v2```
 
 retrieval:
 top_k: 3
 
-gemini:
-model_name: gemini-2.5-flash
-temperature: 0.2
-max_output_tokens: 1024
+**gemini:**
+**model_name:** gemini-2.5-flash
+**temperature:** 0.2
+**max_output_tokens:** 1024
 
 ### ▶ Pipeline Execution (Step-by-Step)
 
