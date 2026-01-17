@@ -8,6 +8,53 @@ A full-stack **Retrieval-Augmented Generation (RAG)** chatbot that automatically
 The system uses **Sentence Transformers for embeddings**, **FAISS for vector search**, and **Google Gemini (latest SDK)** for answer generation. It includes a **FastAPI backend** and a **web-based HTML/CSS/JS frontend UI**.
 
 ---
+## 🚀 Running the Project Locally
+
+### 🔹 Backend (FastAPI – RAG API)
+
+The backend is built using **FastAPI** and runs locally.
+
+**Base URL:** [http://127.0.0.1:8000](http://127.0.0.1:8000)
+
+**Start the backend server:**
+```bash
+uvicorn app:app --reload
+```
+***API Documentation (Swagger UI):** [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+
+###🔹 Frontend (HTML / JavaScript
+The frontend is a static **HTML/JavaScript** application served locally.
+**Base URL:** [http://127.0.0.1:5500/ui/frontend/index.html](http://127.0.0.1:5500/ui/frontend/index.html)
+
+### 🔹 Connecting Frontend to Backend
+Ensure the backend base URL is correctly set in the frontend JavaScript file:
+const API_BASE_URL = "http://127.0.0.1:8000";
+The frontend communicates with the backend using: POST /chat
+
+### 🔹 Example API Request
+``` text
+{
+  "query": "What is the leave policy?",
+  "chat_history": []
+}
+```
+
+### 🔹 Example API Response
+``` text
+{
+  "answer": "Employees are entitled to 12 casual leaves per year.",
+  "sources": [
+    {
+      "section_id": "3.2",
+      "title": "Leave Policy",
+      "chunk_id": "chunk_14"
+    }
+  ],
+  "timestamp": "2026-01-17T10:12:44"
+}
+```
+
+
 
 ## 🚀 Features
 
@@ -25,6 +72,7 @@ The system uses **Sentence Transformers for embeddings**, **FAISS for vector sea
 - ✅ Production-ready modular design
 
 ---
+
 
 ## 🏗 System Architecture
 
