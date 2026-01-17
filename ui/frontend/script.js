@@ -1,5 +1,5 @@
 // Configuration
-const API_URL = "https://policypal-6inh.onrender.com/";
+const API_URL = "http://localhost:8000";
 
 // State
 let conversationHistory = [];
@@ -159,8 +159,8 @@ function addAssistantMessage(content, sources = [], rephrasedQuery = null) {
                         <path d="M14 2v6h6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                     </svg>
                     <span>${sources.length} source${
-      sources.length > 1 ? "s" : ""
-    } referenced</span>
+                      sources.length > 1 ? "s" : ""
+                    } referenced</span>
                     <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                     </svg>
@@ -172,19 +172,19 @@ function addAssistantMessage(content, sources = [], rephrasedQuery = null) {
                         <div class="source-item">
                             <div class="source-header">
                                 <div class="source-title">${escapeHtml(
-                                  source.title
+                                  source.title,
                                 )}</div>
                                 <div class="source-relevance">${Math.round(
-                                  source.relevance * 100
+                                  source.relevance * 100,
                                 )}% match</div>
                             </div>
                             <div class="source-meta">
                                 Section ${escapeHtml(
-                                  source.section_id
+                                  source.section_id,
                                 )} • Chunk ${escapeHtml(source.chunk_id)}
                             </div>
                         </div>
-                    `
+                    `,
                       )
                       .join("")}
                 </div>
@@ -203,7 +203,7 @@ function addAssistantMessage(content, sources = [], rephrasedQuery = null) {
             <span class="message-time">${getCurrentTime()}</span>
         </div>
         <div class="message-content">${marked.parse(
-          formatMarkdown(content)
+          formatMarkdown(content),
         )}</div>
         ${sourcesHtml}
     `;
